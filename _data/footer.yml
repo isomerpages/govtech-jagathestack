@@ -1,10 +1,13 @@
-contact_us: /contact-us/
-show_reach: true
-feedback: 
-faq: /faq/
+contact_us: https://www.tech.gov.sg/contact-us/
+# show_reach: false
+# feedback: https://form.gov.sg/#!/forms/govtech/5bda9d7df5a907000fd1b76e
+# faq: /faq/
 social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+    facebook: https://www.facebook.com/GovTechSG
+    twitter: https://www.twitter.com/GovTechSG
+    youtube: https://www.youtube.com/GovTechSG
+    instagram: https://www.instagram.com/govtechsg/
+    linkedin: https://www.linkedin.com/company/GovTech-Singapore 
+links:
+  - title: CSG Blog
+    url: https://medium.com/csg-govtech/
