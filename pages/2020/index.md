@@ -1,5 +1,5 @@
 ---
-title: Smash the Stack 2020
+title: Jaga Cup 2020
 permalink: /2020/
 collection_name: "2020"
 ---

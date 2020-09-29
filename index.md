@@ -1,13 +1,13 @@
 ---
 layout: homepage
-title: Smash the Stack
-description: Smash the Stack is a Cybersecurity Capture-the-Flag (CTF) competition organized by Govtech Cybersecurity Group.
+title: Jaga Cup
+description: Jaga Cup is a Cybersecurity Capture-the-Flag (CTF) competition organized by Govtech Cybersecurity Group.
 image: /images/isomer-logo.svg
 permalink: /
 # notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Smash the Stack 2020
+        title: Jaga Cup 2020
         subtitle: A CTF organized by Govtech Cybersecurity Group<br>Registration coming soon!
         background: /images/hero-banner.png
         disabled-button: Register
@@ -19,6 +19,13 @@ sections:
             #- title: Discord
             #  description: Join the discord 
             #  url: https://gmail.com
+    
+    - infobar:
+        title: What is Jaga Cup?
+        # subtitle: 
+        description: "Jaga Cup is a Cybersecurity Capture-the-Flag (CTF) competition organized by Govtech Cybersecurity Group. "
+        button: Learn More
+        url: /2020/
     - infobar:
         title: When is this taking place?
         # subtitle: Subtitle
@@ -27,12 +34,6 @@ sections:
                       <a href=\"https://time.is/compare/2000_6_Dec_2020_in_SGT\">6th December 2020 8pm UTC+08</a>"
         #button: Button text
         # url:
-    - infobar:
-        title: What is Smash the Stack?
-        # subtitle: 
-        description: "Smash the Stack is a Cybersecurity Capture-the-Flag (CTF) competition organized by Govtech Cybersecurity Group. "
-        button: Learn More
-        url: /2020/
     - infobar:
         title: Who can take part? What are the Prizes?
         # subtitle: 
