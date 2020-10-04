@@ -1,11 +1,11 @@
 ---
-title: Jaga Cup 2020
+title: STACK the Flags 2020
 breadcrumb: Overview
 permalink: /2020/
 collection_name: "2020"
 ---
 
-Jaga Cup 2020 is a Cybersecurity Capture-the-Flag (CTF) competition organized by Govtech Cybersecurity Group. This year, it will be held as part of the [STACK 2020](https://stack.gov.sg/) conference.
+STACK the Flags 2020 is a Cybersecurity Capture-the-Flag (CTF) competition organized by Govtech Cybersecurity Group. This year, it will be held as part of the [STACK 2020](https://stack.gov.sg/) conference.
 
 ## CTF Details
 
