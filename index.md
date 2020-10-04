@@ -1,13 +1,13 @@
 ---
 layout: homepage
-title: Jaga Cup
-description: Jaga Cup is a Cybersecurity Capture-the-Flag (CTF) competition organized by Govtech Cybersecurity Group.
+title: STACK the Flags
+description: STACK the Flags is a Cybersecurity Capture-the-Flag (CTF) competition organized by Govtech Cyber Security Group (CSG).
 image: /images/isomer-logo.svg
 permalink: /
 # notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Jaga Cup 2020
+        title: STACK the Flags 2020
         subtitle: A CTF organized by Govtech Cybersecurity Group<br>Registration coming soon!
         background: /images/hero-banner.png
         disabled-button: Register
@@ -21,9 +21,9 @@ sections:
             #  url: https://gmail.com
     
     - infobar:
-        title: What is Jaga Cup?
+        title: What is STACK the Flags?
         # subtitle: 
-        description: "Jaga Cup is a Cybersecurity Capture-the-Flag (CTF) competition organized by Govtech Cybersecurity Group. "
+        description: "STACK the Flags is a Cybersecurity Capture-the-Flag (CTF) competition organized by Govtech Cybersecurity Group. "
         button: Learn More
         url: /2020/
     - infobar:
