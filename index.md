@@ -9,7 +9,7 @@ sections:
     - hero:
         title: STACK the Flags 2020
         subtitle: A CTF organized by Govtech Cybersecurity Group
-        background: /images/banner.png
+        background: /images/hero-banner.png
         # button: Register
         # url: https://example.com
         key_highlights:
