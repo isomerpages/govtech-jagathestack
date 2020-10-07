@@ -2,7 +2,7 @@
 layout: homepage
 title: STACK the Flags
 description: STACK the Flags is a Cybersecurity Capture-the-Flag (CTF) competition organized by Govtech Cyber Security Group (CSG).
-image: /images/isomer-logo.svg
+image: /images/logo.png
 permalink: /
 # notification: Here's a notification bar you can use!
 sections:
