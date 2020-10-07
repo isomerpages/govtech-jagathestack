@@ -335,3 +335,32 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+// custom scss
+
+a {
+  color: $secondary;
+  &:hover {
+    color: $secondary-hover;
+  }
+}
+
+.content a {
+  color: $secondary;
+  &:hover {
+    color: $secondary-hover;
+  }
+}
+
+.navbar {
+  background: #323232;
+  border-bottom: none;
+  .navbar-item span {
+    color: white;
+  }
+}
+
+.bp-hero-body {
+  background: rgba(0, 0, 0, 0);
+}
+
