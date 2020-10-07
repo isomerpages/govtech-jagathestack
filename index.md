@@ -9,7 +9,7 @@ sections:
     - hero:
         title: STACK the Flags 2020
         subtitle: A CTF organized by Govtech Cybersecurity Group
-        background: /images/hero-banner.png
+        background: /images/hero-banner.jpg
         # button: Register
         # url: https://example.com
         key_highlights:
@@ -32,9 +32,9 @@ sections:
     - infobar:
         title: When is this taking place?
         # subtitle: Subtitle
-        description: "<a href=\"https://time.is/compare 2000_4_Dec_2020_in_SGT\">4th December 2020 8pm UTC+08</a><br>
+        description: "<a href=\"https://time.is/compare 2000_4_Dec_2020_in_SGT\">4th December 2020 9pm UTC+08</a><br>
                       to<br>
-                      <a href=\"https://time.is/compare/2000_6_Dec_2020_in_SGT\">6th December 2020 8pm UTC+08</a>"
+                      <a href=\"https://time.is/compare/2000_6_Dec_2020_in_SGT\">6th December 2020 9pm UTC+08</a>"
         #button: Button text
         # url:
 ---
