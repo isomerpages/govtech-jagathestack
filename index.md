@@ -8,11 +8,14 @@ permalink: /
 sections:
     - hero:
         title: STACK the Flags 2020
-        subtitle: A CTF organized by Govtech Cybersecurity Group<br>Registration coming soon!
-        background: /images/hero-banner.png
-        disabled-button: Register
-        url: https://example.com
+        subtitle: A CTF organized by Govtech Cybersecurity Group
+        background: /images/banner.png
+        # button: Register
+        # url: https://example.com
         key_highlights:
+            - title: Register Now
+              description: Registration coming soon!
+              # url: /2020/
             - title: CTF Details
               description: Check out the details for this year's CTF here
               url: /2020/
@@ -34,10 +37,4 @@ sections:
                       <a href=\"https://time.is/compare/2000_6_Dec_2020_in_SGT\">6th December 2020 8pm UTC+08</a>"
         #button: Button text
         # url:
-    - infobar:
-        title: Who can take part? What are the Prizes?
-        # subtitle: 
-        description: "Participate in one of the Student categories or the Open category<br>Form a team of 3 to 4 people, including at least 1 Singaporean<br>There are attractive cash prizes to be won for all categories, click on the link below to find out more!"
-        button: Learn More
-        url: /2020/
 ---
