@@ -8,7 +8,7 @@ permalink: /
 sections:
     - hero:
         title: STACK the Flags 2020
-        subtitle: A CTF organized by Govtech Cybersecurity Group
+        subtitle: A CTF organized by Govtech Cyber Security Group
         background: /images/hero-banner.jpg
         # button: Register
         # url: https://example.com
@@ -26,7 +26,7 @@ sections:
     - infobar:
         title: What is STACK the Flags?
         # subtitle: 
-        description: "STACK the Flags is a Cybersecurity Capture-the-Flag (CTF) competition organized by Govtech Cybersecurity Group. "
+        description: "STACK the Flags is a Cybersecurity Capture-the-Flag (CTF) competition organized by Govtech Cyber Security Group. "
         button: Learn More
         url: /2020/
     - infobar:
