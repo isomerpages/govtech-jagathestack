@@ -12,13 +12,13 @@ sections:
         background: /images/hero-banner.jpg
         button: Register Now
         url: https://go.gov.sg/csg-ctf 
-        key_highlights:
+        # key_highlights:
             # - title: Register Now
             #   description: Hurry! Registration closes 4th December!
             #   url: https://go.gov.sg/csg-ctf 
-            - title: CTF Details
-              description: Check out the details for this year's CTF here
-              url: /2020/
+            # - title: CTF Details
+            #   description: Check out the details for this year's CTF here
+            #   url: /2020/
             #- title: Discord
             #  description: Join the discord 
             #  url: https://gmail.com
@@ -32,9 +32,18 @@ sections:
     - infobar:
         title: When is this taking place?
         # subtitle: Subtitle
-        description: "<a href=\"https://time.is/compare 2000_4_Dec_2020_in_SGT\">4th December 2020 9pm UTC+08</a><br>
-                      to<br>
-                      <a href=\"https://time.is/compare/2000_6_Dec_2020_in_SGT\">6th December 2020 9pm UTC+08</a>"
+        description: "<span style=\"padding-bottom:3.25rem;display:block;\">
+                        <a href=\"https://time.is/compare 2000_4_Dec_2020_in_SGT\">4th December 2020 9pm UTC+08</a><br>
+                        to<br>
+                        <a href=\"https://time.is/compare/2000_6_Dec_2020_in_SGT\">6th December 2020 9pm UTC+08</a>
+                      </span>"
         #button: Button text
         # url:
+    - infobar:
+        # title:
+        subtitle: "Brought to you proudly by"
+        description: "<span style=\"padding-bottom:3.25rem;display:block;\">
+                        <img src=\"/images/csg-logo.png\" style=\"margin-right:2rem;\">
+                        <img src=\"/images/govtech-logo.png\">
+                      </span>"
 ---
