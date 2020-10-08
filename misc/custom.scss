@@ -368,3 +368,10 @@ h1.display {
   text-shadow: 0 0 9px #323232;
 }
 
+.info-table td:first-child {
+  text-align: right;
+  font-weight: bold;
+  &::after {
+    content: ":";
+  }
+}

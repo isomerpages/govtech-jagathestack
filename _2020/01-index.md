@@ -11,16 +11,6 @@ STACK the Flags 2020 is an online, jeopardy style Capture-The-Flag competition o
 
 ## CTF Summary
 
-<style type="text/css">
-  .info-table td:first-child {
-    text-align: right;
-    font-weight: bold;
-  }
-  .info-table td:first-child::after {
-    content: ":";
-  }
-</style>
-
 <table class="info-table">
   <tr>
     <td>Format</td>
