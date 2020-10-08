@@ -27,13 +27,13 @@ STACK the Flags 2020 is an online, jeopardy style Capture-The-Flag competition o
   <tr>
     <td>Participation</td>
     <td>
-      Teams of 3 to 4, with at least 1 Singaporean. 3 categories to participate in.<br>
+      Teams of up to 4 people, with at least 1 Singaporean. 3 categories to participate in.<br>
       <em>Check <a href="/2020/participation">here</a> for more info</em>
     </td>
   </tr>
   <tr>
     <td>Registration</td>
-    <td>Coming soon!</td>
+    <td><a href="https://go.gov.sg/csg-ctf">Link</a></td>
   </tr>
   <tr>
     <td>Prizes</td>
@@ -45,6 +45,6 @@ STACK the Flags 2020 is an online, jeopardy style Capture-The-Flag competition o
 
 To register for STACK the Flags, form a team of up to **4** members. The only constraint we have is to ensure that there is **1** Singaporean in the team. The rationale is to ease the logistics and administration when we send the prizes over to the winning teams.
 
-The registration form will be up soon!
+<a href="https://go.gov.sg/csg-ctf" class="bp-button is-secondary is-uppercase search-button" style="margin-bottom: 0;">Register Now</a>
 
 Do note that the CTF would require participant's information for administration purposes. Information collected such as educational institution, current employer, are essential to ensure that the participants are categorised fairly.
