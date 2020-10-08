@@ -30,20 +30,45 @@ sections:
         button: Learn More
         url: /2020/
     - infobar:
-        title: When is this taking place?
+        title: CTF Summary
         # subtitle: Subtitle
-        description: "<span style=\"padding-bottom:3.25rem;display:block;\">
-                        <a href=\"https://time.is/compare 2000_4_Dec_2020_in_SGT\">4th December 2020 9pm UTC+08</a><br>
-                        to<br>
-                        <a href=\"https://time.is/compare/2000_6_Dec_2020_in_SGT\">6th December 2020 9pm UTC+08</a>
-                      </span>"
+        description: "<table class=\"info-table\">
+                        <tr>
+                          <td>Format</td>
+                          <td>Online, Jeopardy</td>
+                        </tr>
+                        <tr>
+                          <td>Game Dates</td>
+                          <td>
+                            <a href=\"https://time.is/compare 2000_4_Dec_2020_in_SGT\">4th December 2020 9pm UTC+08</a> <em>to</em><br>
+                            <a href=\"https://time.is/compare/2000_6_Dec_2020_in_SGT\">6th December 2020 9pm UTC+08</a><br>
+                            <em>Check <a href=\"/2020/schedule\">here</a> for more info</em>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>Participation</td>
+                          <td>
+                            Teams of up to 4 people, with at least 1 Singaporean. 3 categories to participate in.<br>
+                            <em>Check <a href=\"/2020/participation\">here</a> for more info</em>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>Registration</td>
+                          <td><a href=\"https://go.gov.sg/csg-ctf\">https://go.gov.sg/csg-ctf</a></td>
+                        </tr>
+                        <tr>
+                          <td>Prizes</td>
+                          <td><em>Check <a href=\"/2020/prizes\">here</a> for more info</em></td>
+                        </tr>
+                      </table>
+                      <span class=\"infobar-fix\"></span>"
         #button: Button text
         # url:
     - infobar:
         # title:
         subtitle: "Brought to you proudly by"
-        description: "<span style=\"padding-bottom:3.25rem;display:block;\">
-                        <img src=\"/images/csg-logo.png\" style=\"margin-right:2rem;\">
+        description: "<span class=\"infobar-fix infobar-img\">
+                        <img src=\"/images/csg-logo.png\">
                         <img src=\"/images/govtech-logo.png\">
                       </span>"
 ---
