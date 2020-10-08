@@ -10,12 +10,12 @@ sections:
         title: STACK the Flags 2020
         subtitle: A CTF organized by Govtech Cyber Security Group
         background: /images/hero-banner.jpg
-        # button: Register
-        # url: https://example.com
+        button: Register Now
+        url: https://go.gov.sg/csg-ctf 
         key_highlights:
-            - title: Register Now
-              description: Registration coming soon!
-              # url: /2020/
+            # - title: Register Now
+            #   description: Hurry! Registration closes 4th December!
+            #   url: https://go.gov.sg/csg-ctf 
             - title: CTF Details
               description: Check out the details for this year's CTF here
               url: /2020/
