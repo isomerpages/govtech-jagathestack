@@ -12,7 +12,8 @@ Each participating team will be categorised into one of the three categories as 
 * Category 2* - Universities and Polytechnics
 * Category 3* - Junior Colleges, Integrated Programmes and Institutes of Technical Education
 
-*Note: The category will follow Singapore's educational system for definition. For international students, the CTF administrative team will perform a manual review of the team's categorisation to ensure accurate mapping back to Singapore's educational system.
+*Note: The categories are derived from the ones used in Singapore's educational syatem. 
+For international students, the CTF administrative team will perform a manual review of the team's categorisation to ensure accurate mapping back to Singapore's educational system.
 
 ![](/images/2020/category-flowchart.png)
 
@@ -22,11 +23,11 @@ The participating team will compete in: Category 1 - Open, if the team contains 
 
 ### Category 2 - Universities and Polytechnics
 
-The participating team will compete in: Category 2 - Universities and Polytechnics, if the team contains **at least 1** member who is enrolled into either a University or a Polytechnic and does not also fall into the above category.
+The participating team will compete in: Category 2 - Universities and Polytechnics, if the team contains **at least 1** member who is enrolled into either a University or a Polytechnic and does not also fall into category 1.
 
 ### Category 3 - Junior Colleges, Integrated Programmes and Institutes of Technical Education
 
-The participating team will compete in: Category 3 - Junior Colleges, Integrated Programmes and Institutes of Technical Education, if the team consists **only of** members who are enrolled in any of these programmes/institutions:
+The participating team will compete in: Category 3 - Junior Colleges, Integrated Programmes and Institutes of Technical Education, and teams that enter into this category must include **only of** members from any of these programmes/institutions:
 
 * Junior Colleges/Centralised Institutes
 * Integrated Programmes
