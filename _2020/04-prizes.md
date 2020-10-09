@@ -16,15 +16,17 @@ collection_name: "2020"
 
 ### Swag
 
-Teams in the top 10 of each category will be awarded some swag from us, including the CSG CTF C01N, a Espressif ESP32 powered board for you to hack!
+Each member of the top 10 teams of each category will be awarded some swag from us, including the Stack the Flags CTF C01N, a Espressif ESP32 powered board for you to hack!
 
 ### Special Awards
 
-The organising committee behind the STACK the Flags CTF wants to recognise teams that perform spectacularly for specific domains. Further updates coming soon!
+The organising committee behind the STACK the Flags CTF wants to recognise teams that perform spectacularly for specific domains. 
+Further updates coming soon!
 
 ### Awesome Writeups
 
-Lastly, we are rewarding the best write-ups for each of the challenges with a cash award! The following will be the assessment rubrics that we will use to determine the best writeup for the challenge.
+Lastly, we are rewarding the best write-ups for each of the challenges with a cash award! 
+The following will be the assessment rubrics that we will use to determine the best writeup for the challenge.
 
 Component | Description | Percentage (%)
 ---|---|---
