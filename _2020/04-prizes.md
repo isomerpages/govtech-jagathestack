@@ -8,7 +8,7 @@ collection_name: "2020"
 
 ### Top Prizes
 
- &nbsp; | Category 1 - Open | Category 2 - University and Polytechnics | Category 3 - Junior Colleges, Integrated Programmes and Institutes of Technical Education
+ &nbsp; | Category 1 - Open | Category 2 - Uni & Poly | Category 3 - JC, IP & ITE
 ---|---|---|---
 **1st Prize** | SGD $15000 | SGD $8000 | SGD $8000
 **2nd Prize** | SGD $10000 | SGD $4000 | SGD $4000
