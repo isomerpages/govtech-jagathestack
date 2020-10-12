@@ -1,0 +1,35 @@
+---
+# modified from https://github.com/isomerpages/isomerpages-template/blob/next-gen/_layouts/our-team.html
+layout: page
+---
+
+	{%- for team in page.teams -%}
+	<div class="col padding--bottom--lg">
+		<span class="has-text-centered">
+			<span class="is-uppercase" id="team-{{- team.name -}}-name"><b>{{- team.name -}}</b></span>
+		</span>
+	</div>
+
+	<div class="content">
+		<div class="row is-multiline padding--bottom--lg" id="team-{{- team.name -}}-members">
+			{%- for member in team.members -%}
+				<div class="col is-half person-info-card padding--right">
+					<div class="row margin--bottom--xs margin--right">
+						<div class="col is-one-third image-col">
+							{%- if member.image-url -%}
+								<img class="margin--right--none" src="{{- site.baseurl -}}{{- member.image-url -}}">
+							{%- endif -%}
+						</div>
+						<div class="col padding--top padding--bottom bg-table-grey">
+							<p class="is-marginless padding--top--sm">
+								<b>{{- member.name -}}</b><br>
+								<small class="is-uppercase" style="font-size: 0.75rem">{{- member.title -}}</small><br>
+							</p>
+							<h6 class="is-marginless margin--top--xs"><b>{{- member.description -}}</b></h6>
+						</div>
+					</div>
+				</div>
+			{%- endfor -%}
+		</div>
+	</div>
+	{%- endfor -%}
