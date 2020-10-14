@@ -1,14 +1,14 @@
 ---
 layout: homepage
 title: STACK the Flags
-description: STACK the Flags is a Cybersecurity Capture-the-Flag (CTF) competition organized by Govtech Cyber Security Group (CSG).
+description: STACK the Flags is a Cybersecurity Capture-the-Flag (CTF) competition organised by GovTech Cyber Security Group (CSG).
 image: /images/logo.png
 permalink: /
 # notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: STACK the Flags 2020
-        subtitle: A CTF organized by Govtech Cyber Security Group
+        subtitle: A CTF organised by GovTech Cyber Security Group
         background: /images/hero-banner.jpg
         button: Register Now
         url: https://go.gov.sg/csg-ctf 
@@ -26,7 +26,7 @@ sections:
     - infobar:
         title: What is STACK the Flags?
         # subtitle: 
-        description: "STACK the Flags is a Cybersecurity Capture-the-Flag (CTF) competition organized by Govtech Cyber Security Group. "
+        description: "STACK the Flags is a Cybersecurity Capture-the-Flag (CTF) competition organised by GovTech Cyber Security Group. "
         button: Learn More
         url: /2020/
     - infobar:
