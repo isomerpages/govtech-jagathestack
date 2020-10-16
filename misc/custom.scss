@@ -335,3 +335,71 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+// custom scss
+
+a {
+  color: $secondary;
+  &:hover {
+    color: $secondary-hover;
+  }
+}
+
+.content a {
+  color: $secondary;
+  &:hover {
+    color: $secondary-hover;
+  }
+}
+
+.navbar {
+  background: #323232;
+  border-bottom: none;
+  .navbar-item span {
+    color: white;
+  }
+}
+
+.bp-hero-body {
+  background: rgba(0, 0, 0, 0);
+}
+
+h1.display {
+  text-shadow: 0 0 9px #323232;
+}
+
+.infobar-fix {
+  display: block; // span to fit in <p>, block to add vertical whitespace
+  padding-bottom: 3.25rem;
+    &.infobar-img {
+      padding-bottom: 2.25rem;
+      > img {
+        margin: 0 1rem 1rem;
+      }
+  }
+}
+
+.info-table {
+  width: 100%;
+  tr {
+    &:last-child > td {
+      border-width: 0 0 0;
+    }
+    td {
+      border: 1px solid #d6d6d6;
+      border-width: 0 0 1px;
+      padding: 0.5em 0.75em;
+      vertical-align: top;
+      &:first-child {
+        text-align: right;
+        font-weight: bold;
+        &::after {
+          content: ":";
+        }
+      }
+    }
+  }
+  li {
+    font-size: 1rem;
+  }
+}
