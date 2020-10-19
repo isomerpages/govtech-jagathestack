@@ -1,10 +1,12 @@
 ---
 title: Contact Us
-permalink: /2020/contact
+permalink: /contact-us/
 collection_name: "2020"
 ---
 
-## Contact Us
+# Get in Touch
 
-Please refer to this website for latest updates on the competition. 
-A discord channel will be created subsequently and shared with participants for communication purposes. 
+Email: <ctf@tech.gov.sg>
+
+Please refer to this website for latest updates on the competition.   
+A Discord channel will be created subsequently and shared with participants for communication purposes. 
