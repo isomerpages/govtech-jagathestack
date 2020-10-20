@@ -13,11 +13,9 @@ At the end of the competition, attractive prizes will be awarded to the top team
 
 ## How to register?
 
-Click on the "Register Now" button below to sign up for STACK the Flags.
+Registrations will start in early November.
 Each team can register a maximum of **4** members with at least **1** Singaporean member. 
 This requirement is to assist the administrative and logistical aspects of the competition.
-
-<a href="https://go.gov.sg/csg-ctf" class="bp-button is-secondary is-uppercase search-button" style="margin-bottom:0; text-decoration:none;">Register Now</a>
 
 Do note that the CTF requires participants' information for administrative purposes. 
 Information collected such as educational institution, current employer, is essential to ensure that participants are fairly categorised.
