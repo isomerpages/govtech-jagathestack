@@ -34,7 +34,7 @@ By selecting "Yes" or otherwise indicating acceptance or agreement, all particip
 * Categorization of the participating teams are in the discretion of the organizing committee and the organizing committee's determination of the category for each participating team shall be will final;
 * Privacy Statement as detailed in the "STACK the Flags Privacy Statement" section.
 
-The organizing committee reserves the right to make changes to the competition and rules at any time at its discretion and will communicate the change thereafter via the official website: <https://ctf.tech.gov.sg>.
+The organizing committee reserves the right to make changes to the competition and rules at any time at its discretion and will communicate the change thereafter via the official website: [{{- site.url -}}](/).
 Participating teams shall be deemed to have agreed to all such changes and are advised to keep themselves updated at the stated URL. 
 The aforesaid changes include the right of the organizing committee to withdraw the competition totally at any time should the organizing committee have reason to believe that the competition or GovTech has been adversely affected by unforeseen events.
 
