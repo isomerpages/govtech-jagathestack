@@ -1,9 +1,9 @@
 ---
-title: Terms of Use
-permalink: /terms-of-use/
+title: Terms and Conditions
+permalink: /terms-and-conditions/
 ---
 
-## Terms of Use
+## STACK the Flags Terms and Conditions
 
 *General Terms and Conditions for the STACK the Flags CTF event organized by Government Technology Agency (a body corporate which is established under written law of the Republic of Singapore for a public purpose.)*
 
@@ -17,7 +17,7 @@ permalink: /terms-of-use/
         6. **"Organising Committee"** means GovTech's employees and personnel tasked with administering and managing the Competition;
         7. **"Party"** shall mean each Participant or GovTech, **"Parties"** means the Participants and GovTech collectively;
         8. **"Participants"** means all persons, corporations and other entities individually and collectively, that are participating in the STACK the Flags CTF event and Competition. **"Participant"** means each and every of the Participants;
-        9. **"Rules"** or **"Competition Rules"** mean the rules, regulations and decisions prescribed by GovTech for the Competition, including these terms and conditions and those set out at the following URL [*].
+        9. **"Rules"** or **"Competition Rules"** mean the rules, regulations and decisions prescribed by GovTech for the Competition, including these terms and conditions and those set out at the following URL: [{{- site.url -}}/2020/rules](/2020/rules).
     2. Reference to **"Clauses"** or **"Clause"** shall refer to the clauses or clause of these terms and conditions and shall include all sub-clauses of the respective clauses being referred to. These terms and conditions may be referred to as these or the **"Terms and Conditions"**.
 2. Compliance
     1. By participating in the Competition or Event, all Participants are deemed to have agreed to and shall always fully comply with the Rules prescribed by GovTech and from time to time. All decisions made by GovTech in relation to the Competition, including the award or non-award of prizes and other benefits, shall be in the sole discretion of GovTech and shall be final and binding on all Participants. 
