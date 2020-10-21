@@ -37,3 +37,8 @@ By selecting "Yes" or otherwise indicating acceptance or agreement, all particip
 The organizing committee reserves the right to make changes to the competition and rules at any time at its discretion and will communicate the change thereafter via the official website: <https://ctf.tech.gov.sg>.
 Participating teams shall be deemed to have agreed to all such changes and are advised to keep themselves updated at the stated URL. 
 The aforesaid changes include the right of the organizing committee to withdraw the competition totally at any time should the organizing committee have reason to believe that the competition or GovTech has been adversely affected by unforeseen events.
+
+### Withdrawal of Consent
+
+Given that the participating team gives reasonable notice to the organizing committee, the organizing committee shall allow the participating team to withdraw consent at any time, subject to legal or contractual restrictions or public interest requirements. 
+On receipt of such notice before the end of the competition dates, the aforementioned team shall also be considered to be withdrawn from the competition.
