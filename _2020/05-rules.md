@@ -46,7 +46,7 @@ If a potential winner declines, is found to have broken the rules of the competi
 The organising committee does not condone cheating at any point during the CTF competition. 
 We want to maintain fair play among the participating teams. 
 Groups and participants who are found cheating will be disqualified from any prizes and barred from participating in future events. 
-If you are aware of any team that is involved in any form of unfair practice during the course of the competition, please do not hesitate to contact us with relevant evidence.
+If you are aware of any team that is involved in any form of unfair practice during the course of the competition, please do not hesitate to [contact us](/contact-us/) with relevant evidence.
 The organizing committee will investigate the matter immediately.
 
 
