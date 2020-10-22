@@ -9,7 +9,7 @@ permalink: /terms-and-conditions/
 
 1. Definitions
     1. The following terms shall have the meanings ascribed below:
-        1. **"Competition"** means the STACK the Flags CTF event and competition organized by GovTech with it competition website; 
+        1. **"Competition"** means the STACK the Flags CTF event and competition organized by GovTech with it competition website at the following URL: [{{- site.url -}}](/); 
         2. **"Competition Platform"** or **"Platform"** means the computer systems and services providing the computer processes and environment for the Competition;
         3. **"Event"** means the STACK the Flags CTF event and all activities associated therewith;
         4. **"GovTech"** means Government Technology Agency, a body corporate which is established under written law of the Republic of Singapore for a public purpose;
