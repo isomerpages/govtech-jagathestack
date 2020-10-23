@@ -22,7 +22,7 @@ collections:
   "2020":
     output: true
 
-google_analytics: G-03K99Z3BGT
+google_analytics: UA-108456255-2
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
