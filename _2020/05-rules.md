@@ -38,6 +38,7 @@ We will award the prizes as laid out in the [prizes section](/2020/prizes) of th
 GovTech will award all prizes during the Prize Ceremony (as indicated in the [schedule](/2020/schedule)) or within 60 days after its conclusion. 
 The prizes will be awarded digitally or via courier for physical goods to a local representative of each winning team. 
 If a local representative is unavailable, alternative arrangements may be made with that team separately. 
+All fees, taxes and/or surcharges for the prizes shall be borne by the winners. 
 If a potential winner declines, is found to have broken the rules of the competition, does not respond to prize notification, is found to be ineligible for the prize, or is otherwise found to be unable to claim the prize for some reason, GovTech may award the prize to the next best team. 
 
 
