@@ -42,7 +42,7 @@ Thought Process | Sharing of thought processes with the community, along with ti
 
 ## Evaluating the winners
 
-A video conference session will be conducted with the respective teams that win the Top Prizes and Special Awards before the prize ceremony. 
+A video conference session will be conducted with the respective winners of the Top Prizes in each participation category before the prize ceremony.
 
 The session is conducted with the following intent:
 * Identify authenticity of the CTF experience
