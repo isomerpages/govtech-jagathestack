@@ -44,17 +44,3 @@ Please [contact us](/contact-us/) if you:
 
 1. have any enquires or feedback on our data protection, policies and procedures; or
 2. need more information on or access to data which you have provided directly to us in the past.
-
-### Acceptance
-
-By selecting "Yes", indicating acceptance or agreement in any form or manner, or by participating in the STACK the Flags competition or event, all participating teams and team members agree to the following:
-
-* Competition game-play rules set by the Organising Committee shall apply to all participating teams and participating teams accept that all decisions made by the Organising Committee relating to the STACK the Flags competition and event shall be final and binding on all participating teams;
-* Categorization of the participating teams are in the discretion of the Organising Committee and the Organising Committee’s determination of the category for each participating team shall be will final and binding on all participating teams;
-* Privacy Statement as detailed in the "STACK the Flags Privacy Statement" section; 
-* General Terms and Conditions as detailed in the “STACK the Flags General Terms and Conditions” Section;
-* Rules as detailed in the “STACK the Flags Rules” Section.
-
-The Organising Committee reserves the right to make changes to the competition and rules at any time at its discretion and will communicate the change thereafter via the official website at [{{- site.url -}}](/). 
-Participating teams shall be deemed to have agreed to all such changes and are advised to keep themselves updated at the stated URL. 
-The aforesaid changes include the right of the Organising Committee to withdraw the competition totally at any time should the Organising Committee have reason to believe that the competition or GovTech has been adversely affected by unforeseen events.
