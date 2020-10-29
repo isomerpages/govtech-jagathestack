@@ -5,31 +5,37 @@ permalink: /privacy/
 
 ## STACK the Flags Privacy Statement
 
-STACK the Flags CTF is organized by Government Technology Agency (a body corporate which is established under written law of the Republic of Singapore for a public purpose) ("GovTech") only collects data that is needed to ensure smooth delivery of the CTF event. 
-GovTech is committed to safeguarding your privacy and will use the data for administrative purposes of the competition.
+The STACK the Flags Competition 2020 (the "Competition"), which is organised by Government Technology Agency ("GovTech"), only collects data that is needed to ensure the smooth delivery of the Competition. 
+GovTech is committed to safeguarding your privacy and will use the data for administrative purposes before, during and after the Competition. 
+By submitting the registration form, the participating team members (and parents/guardians of the team members, where applicable) agree that GovTech may collect, use and disclose the personal data as provided in the registration form, for such administrative purposes. 
 
-To participate in the competition, GovTech will require the following information from the participating teams:
+To participate in the Competition, GovTech will require the following information from the participating teams:
 
+* Team's name;
 * Team's electronic mail addresses;
 * Team's mobile phone number or other contact details;
 * Members' full name;
 * Members' affiliation (Educational Institution, current employer, etc.);
-* Members' nationality.
+* Members' personal information such as age and nationality; and
+* Parent/Guardian's name, NRIC/FIN/Passport and contact details (if applicable).
 
 GovTech may share necessary data with other Government of Singapore agencies, so as to enable each teams' participation in the competition in the most efficient and effective way unless such sharing is prohibited by law.
 
+As GovTech is committed to deliver the best Competition experience possible, there is a need for GovTech to retain the data indefinitely for administrative and evaluative purposes. 
 To safeguard team members' personal data, all electronic storage and transmission of personal data will be secured with appropriate security technologies.
 
-### Others
-
-The organizing committee will share with the contractors engaged by GovTech to provide services for the competition, the participating teams' contact electronic mail addresses. 
+The Competition's organizing committee ("Organizing Committee") will share the participating teams' contact electronic mail addresses with the contractors engaged by GovTech, to facilitate the provision of user accounts on the contractors' platform. 
 This is to provision their user accounts on the contractors' platform. 
-Participating teams should provide an electronic mail address that is suitable for the purpose in terms of any privacy or confidentiality concerns.
+Participating teams should provide an electronic mail address that is suitable for the purpose.
 
 ### Withdrawal of Consent
 
-Given that the participating team gives reasonable notice to the organizing committee, the organizing committee shall allow the participating team to withdraw consent at any time, subject to legal or contractual restrictions or public interest requirements. 
-On receipt of such notice before the end of the competition dates, the aforementioned team shall also be considered to be withdrawn from the competition.
+Participating team members may withdraw consent for use of their personal data at any time upon reasonable notice to the Organizing Committee, subject to legal or contractual restrictions or public interest requirements. 
+Upon such withdrawal, the Organizing Committee may in its discretion adjust the status of the Competition, including:
+
+1. Deem the participating team to have withdrawn from the Competition if the withdrawal of consent for use of its members’ personal data (or parents/guardians’ personal data where applicable) renders it administratively impracticable to allow the participating team to remain in the Competition;
+2. Adjust the Competition ranking;
+3. Award the Competition prizes and benefits to another participating team or otherwise dispose of the same as the Organizing Committee deems fit if no other winning team can be conferred or identified the prizes and benefits.
 
 ### Contact Information
 
@@ -40,12 +46,14 @@ Please [contact us](/contact-us/) if you:
 
 ### Acceptance
 
-By selecting "Yes" or otherwise indicating acceptance or agreement, all participating teams and team members agree to the following:
+By selecting "Yes", indicating acceptance or agreement in any form or manner, or by participating in the STACK the Flags competition or event, all participating teams and team members agree to the following:
 
-* Competition game-play rules set by the organizing committee shall apply to all participating teams and participating teams accept that all decisions made by the organizing committee relating to STACK the Flags shall be final;
-* Categorization of the participating teams are in the discretion of the organizing committee and the organizing committee's determination of the category for each participating team shall be will final;
-* Privacy Statement as detailed in the "STACK the Flags Privacy Statement" section.
+* Competition game-play rules set by the Organising Committee shall apply to all participating teams and participating teams accept that all decisions made by the Organising Committee relating to the STACK the Flags competition and event shall be final and binding on all participating teams;
+* Categorization of the participating teams are in the discretion of the Organising Committee and the Organising Committee’s determination of the category for each participating team shall be will final and binding on all participating teams;
+* Privacy Statement as detailed in the "STACK the Flags Privacy Statement" section; 
+* General Terms and Conditions as detailed in the “STACK the Flags General Terms and Conditions” Section;
+* Rules as detailed in the “STACK the Flags Rules” Section.
 
-The organizing committee reserves the right to make changes to the competition and rules at any time at its discretion and will communicate the change thereafter via the official website: [{{- site.url -}}](/).
+The Organising Committee reserves the right to make changes to the competition and rules at any time at its discretion and will communicate the change thereafter via the official website at [{{- site.url -}}](/). 
 Participating teams shall be deemed to have agreed to all such changes and are advised to keep themselves updated at the stated URL. 
-The aforesaid changes include the right of the organizing committee to withdraw the competition totally at any time should the organizing committee have reason to believe that the competition or GovTech has been adversely affected by unforeseen events.
+The aforesaid changes include the right of the Organising Committee to withdraw the competition totally at any time should the Organising Committee have reason to believe that the competition or GovTech has been adversely affected by unforeseen events.
