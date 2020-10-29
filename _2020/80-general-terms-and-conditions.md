@@ -1,5 +1,5 @@
 ---
-title: Terms and Conditions
+title: General Terms and Conditions
 permalink: /general-terms-and-conditions/
 collection_name: "2020"
 ---
