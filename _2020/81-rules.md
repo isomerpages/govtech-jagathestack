@@ -10,7 +10,7 @@ collection_name: "2020"
 
 In these Rules, **"GovTech"** refers to the Government Technology Agency, a statutory board of the Government of Singapore who is the organiser of this STACK the Flags competition and event.
 
-**"You"** refers to each participating team and its members.
+**"You"** or **"you"** refers to each participating team and its members.
 
 Here are some ground rules. Unless otherwise specified, the rules refer to your team and not you as a member of your team, it is acceptable to share materials within your own team only.
 
@@ -19,7 +19,7 @@ Here are some ground rules. Unless otherwise specified, the rules refer to your 
     * Sharing of solutions;
     * Seeking help from other parties beyond general internet research.
 2. Do not share any content or details of the CTF challenges with anyone before the end of the competition
-3. If you do manage to break something not intended to be broken, please inform the organizing committee via the contact email or discord immediately so that the affected service can be brought back up as soon as possible.
+3. If you do manage to break something not intended to be broken, please inform the Organising Committee via the contact email or Discord immediately so that the affected service can be brought back up as soon as possible.
 4. Do not engage in disruptive behaviour during the competition. This includes, but is not limited to, the following:
     * launching denial of service attacks;
     * launching cyber attacks on other teams;
@@ -69,7 +69,7 @@ Prizes may be subject to terms, restrictions and conditions imposed by GovTech.
 
 #### Cheating
 
-The organising committee does not condone cheating at any point during the CTF competition. 
+The Organising Committee does not condone cheating at any point during the CTF competition. 
 We want to maintain fair play among the participating teams. 
 GovTech will take all steps deemed necessary to maintain fair play among the participating teams. 
 Groups and participants found to be cheating will be disqualified from all prizes, awards and barred from participating in future events.

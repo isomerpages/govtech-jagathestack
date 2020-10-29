@@ -18,7 +18,7 @@ Each member of the top 10 teams of each category will be awarded some "swag", in
 
 ## Special Awards
 
-The organising committee behind the STACK the Flags CTF is on the lookout for teams that perform spectacularly in specific domains. 
+The Organising Committee behind the STACK the Flags CTF is on the lookout for teams that perform spectacularly in specific domains. 
 Watch this space for further updates!
 
 ## Awesome Write-ups
