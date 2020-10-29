@@ -1,6 +1,6 @@
 ---
 title: Terms and Conditions
-permalink: /terms-and-conditions/
+permalink: /general-terms-and-conditions/
 collection_name: "2020"
 ---
 
