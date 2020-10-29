@@ -12,8 +12,8 @@ social_media:
     instagram: https://www.instagram.com/govtechsg/
     linkedin: https://www.linkedin.com/company/GovTech-Singapore 
 navlinks:
-  - title: Year
-    url: "javascript:;"
+  - title: Competitions
+    url: /2020/
     sublinks:
       - title: 2020
         url: /2020/
