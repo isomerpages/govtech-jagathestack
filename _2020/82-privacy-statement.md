@@ -1,6 +1,6 @@
 ---
 title: Privacy Statement
-permalink: /privacy/
+permalink: /privacy-statement/
 collection_name: "2020"
 ---
 
