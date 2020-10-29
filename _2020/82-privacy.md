@@ -25,18 +25,18 @@ GovTech may share necessary data with other Government of Singapore agencies, so
 As GovTech is committed to deliver the best Competition experience possible, there is a need for GovTech to retain the data indefinitely for administrative and evaluative purposes. 
 To safeguard team members' personal data, all electronic storage and transmission of personal data will be secured with appropriate security technologies.
 
-The Competition's organizing committee ("Organizing Committee") will share the participating teams' contact electronic mail addresses with the contractors engaged by GovTech, to facilitate the provision of user accounts on the contractors' platform. 
+The Competition's Organising Committee ("Organising Committee") will share the participating teams' contact electronic mail addresses with the contractors engaged by GovTech, to facilitate the provision of user accounts on the contractors' platform. 
 This is to provision their user accounts on the contractors' platform. 
 Participating teams should provide an electronic mail address that is suitable for the purpose.
 
 ### Withdrawal of Consent
 
-Participating team members may withdraw consent for use of their personal data at any time upon reasonable notice to the Organizing Committee, subject to legal or contractual restrictions or public interest requirements. 
-Upon such withdrawal, the Organizing Committee may in its discretion adjust the status of the Competition, including:
+Participating team members may withdraw consent for use of their personal data at any time upon reasonable notice to the Organising Committee, subject to legal or contractual restrictions or public interest requirements. 
+Upon such withdrawal, the Organising Committee may in its discretion adjust the status of the Competition, including:
 
 1. Deem the participating team to have withdrawn from the Competition if the withdrawal of consent for use of its members’ personal data (or parents/guardians’ personal data where applicable) renders it administratively impracticable to allow the participating team to remain in the Competition;
 2. Adjust the Competition ranking;
-3. Award the Competition prizes and benefits to another participating team or otherwise dispose of the same as the Organizing Committee deems fit if no other winning team can be conferred or identified the prizes and benefits.
+3. Award the Competition prizes and benefits to another participating team or otherwise dispose of the same as the Organising Committee deems fit if no other winning team can be conferred or identified the prizes and benefits.
 
 ### Contact Information
 
