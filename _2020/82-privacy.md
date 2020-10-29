@@ -1,6 +1,7 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
+collection_name: "2020"
 ---
 
 ## STACK the Flags Privacy Statement

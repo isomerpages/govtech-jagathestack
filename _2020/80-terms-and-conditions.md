@@ -1,6 +1,7 @@
 ---
 title: Terms and Conditions
 permalink: /terms-and-conditions/
+collection_name: "2020"
 ---
 
 ## STACK the Flags Terms and Conditions
