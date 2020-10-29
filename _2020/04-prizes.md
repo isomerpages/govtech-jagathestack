@@ -12,13 +12,18 @@ collection_name: "2020"
 **2nd Prize** | SGD $10000 | SGD $4000 | SGD $4000
 **3rd Prize** | SGD $4000 | SGD $2000 | SGD $2000
 
-## Swag
+## Coins of Honour
 
-Each member of the top 10 teams of each category will be awarded some "swag", including the Stack the Flags CTF C01N, an Espressif ESP32 powered board for you to hack!
+Each member of the top 10 teams of each category will be awarded some "swag", including the Stack the Flags CTF C01N (an Espressif ESP32 powered board for you to hack) and a certificate!
+This is to reward your outstanding achievements in the competition.
 
-## Special Awards
+## Mastery Awards
 
-The Organising Committee behind the STACK the Flags CTF is on the lookout for teams that perform spectacularly in specific domains. 
+There will be a total of 8 Mastery Awards to be given away. 
+Recipients of the Mastery Awards are teams that perform spectacularly within specific domains. 
+Each award has a associated cash bounty. 
+Teams from all three participation categories are eligible for the award as long as they complete the defined prerequisites in the shortest amount of time possible. 
+
 Watch this space for further updates!
 
 ## Awesome Write-ups
