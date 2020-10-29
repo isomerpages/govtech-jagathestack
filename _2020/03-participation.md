@@ -4,18 +4,25 @@ permalink: /2020/participation
 collection_name: "2020"
 ---
 
-## Participation Categories
+## Participation Categories and Requirements
 
-Teams will be placed into one of the three categories:
+The Competition is divided into 3 categories:
 
-* Category 1 - Open
-* Category 2* - Universities and Polytechnics
-* Category 3* - Junior Colleges, Integrated Programmes and Institutes of Technical Education
+1. Open;
+2. Universities and Polytechnics; and
+3. Junior Colleges, Integrated Programmes and Institutes of Technical Education.
 
-*Note: The categories are derived from the ones used in Singapore's educational system. 
-For international students, the CTF administrative team will perform a manual review for the team's categorisation to ensure accurate benchmarking.
+All participating teams shall have a maximum of 4 team members, with at least 1 Singaporean Citizen or Singapore Permanent Resident in the team. 
+
+Employees of GovTech and officers seconded to GovTech are not eligible to participate.
+
+Participants who are below 18 years old as at the date of the Competition must have proper parental/guardian's consent to participate in the Competition. The parental/guardian consent form is provided [here](/files/STACK%20the%20Flags%20Consent%20and%20Indemnity%20Form.docx). Participants under 18 years old will be automatically disqualified from the Competition if proper consent has not been obtained and submitted before the start of the Competition.
+
+Teams which fail to comply with the above mentioned requirements shall be automatically disqualified from the Competition.
 
 ## How will teams be categorised?
+
+Participants shall also ensure that they satisfy the criteria to the corresponding categories:
 
 <br>
 <table class="info-table">
