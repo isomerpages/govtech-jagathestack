@@ -15,4 +15,4 @@ At the end of the competition, attractive prizes will be awarded to the top team
 
 The registration link will be released on this page in early November 2020.
 
-In the mean time, please check out [participation section](/2020/participation) so that you are familiar with the participation requirements.
+In the meantime, please check out [participation section](/2020/participation) so that you are familiar with the participation requirements.

@@ -21,14 +21,15 @@ This is to reward your outstanding achievements in the competition.
 
 There will be a total of 8 Mastery Awards to be given away. 
 Recipients of the Mastery Awards are teams that perform spectacularly within specific domains. 
-Each award has a associated cash bounty. 
+Each award has an associated cash bounty. 
 Teams from all three participation categories are eligible for the award as long as they complete the defined prerequisites in the shortest amount of time possible. 
 
 Watch this space for further updates!
 
 ## Awesome Write-ups
 
-There will also be cash rewards for the best write-ups of each of the challenge. 
+There will be a cash bounty awarded to the best write-up of the specified challenges.
+More information regarding the eligible challenges will be released subsequently. 
 The following will be the assessment rubrics that we will use to determine the best write-up for the challenge.
 
 Component | Description | Percentage (%)
