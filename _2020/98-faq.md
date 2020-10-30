@@ -21,6 +21,6 @@ A: Yes, for participants under the age of 18, we will need your guardian/parent 
 
 ##### Q: I am quite new to this type of competition! Where can I get started for such events?
 
-A: If you are new to this such competition do check out an introductory piece by our team -  https://medium.com/csg-govtech/whats-up-with-the-craze-surrounding-capture-the-flag-ctf-competitions-fb68c57fa803 
+A: If you are new to this such competition do check out an introductory piece by our team -  <https://medium.com/csg-govtech/whats-up-with-the-craze-surrounding-capture-the-flag-ctf-competitions-fb68c57fa803>
 
-You can follow our blog for our technical articles too! - https://medium.com/csg-govtech 
+You can follow our blog for our technical articles too! - <https://medium.com/csg-govtech>
