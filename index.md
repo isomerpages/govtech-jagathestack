@@ -48,7 +48,7 @@ sections:
                         <tr>
                           <td>Participation</td>
                           <td>
-                            Teams of up to 4 people, with at least 1 Singaporean. 3 categories to participate in.<br>
+                            Teams of up to 4 people, with at least 1 Singaporean Citizen or Singapore Permanent Resident. 3 categories to participate in.<br>
                             <em>Check <a href=\"/2020/participation\">here</a> for more information</em>
                           </td>
                         </tr>
