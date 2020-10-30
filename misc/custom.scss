@@ -403,3 +403,31 @@ h1.display {
     font-size: 1rem;
   }
 }
+
+ol.legalese {
+  counter-reset: section;
+  list-style: none outside none;
+  text-indent: -1em;
+  > li {
+    font-weight: bold;
+    &:before {
+      counter-increment: section;
+      content: counter(section) ". ";
+      margin: 0 0.5em 0 0;
+      font-weight: bold;
+    }
+  }
+  ol {
+    counter-reset: clause;
+    list-style: none outside none;
+    text-indent: -2em;
+    li {
+      font-weight: normal;
+      counter-increment: clause;
+      &:before {
+        content: counter(section) "." counters(clause, ".") ". ";
+        margin: 0 0.5em 0 0;
+      }
+    }
+  }
+}

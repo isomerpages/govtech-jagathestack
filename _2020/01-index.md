@@ -13,9 +13,6 @@ At the end of the competition, attractive prizes will be awarded to the top team
 
 ## How to register?
 
-Registrations will start in early November.
-Each team can register a maximum of **4** members with at least **1** Singaporean member. 
-This requirement is to assist the administrative and logistical aspects of the competition.
+The registration link will be released on this page in early November 2020.
 
-Do note that the CTF requires participants' information for administrative purposes. 
-Information collected such as educational institution, current employer, is essential to ensure that participants are fairly categorised.
+In the meantime, please check out [participation section](/2020/participation) so that you are familiar with the participation requirements.
