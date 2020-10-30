@@ -42,14 +42,14 @@ sections:
                           <td>
                             <a href=\"https://time.is/compare 2000_4_Dec_2020_in_SGT\">4th December 2020 9pm UTC+08</a> <em>to</em><br>
                             <a href=\"https://time.is/compare/2000_6_Dec_2020_in_SGT\">6th December 2020 9pm UTC+08</a><br>
-                            <em>Check <a href=\"/2020/schedule\">here</a> for more info</em>
+                            <em>Check <a href=\"/2020/schedule\">here</a> for more information</em>
                           </td>
                         </tr>
                         <tr>
                           <td>Participation</td>
                           <td>
                             Teams of up to 4 people, with at least 1 Singaporean. 3 categories to participate in.<br>
-                            <em>Check <a href=\"/2020/participation\">here</a> for more info</em>
+                            <em>Check <a href=\"/2020/participation\">here</a> for more information</em>
                           </td>
                         </tr>
                         <tr>
@@ -58,7 +58,7 @@ sections:
                         </tr>
                         <tr>
                           <td>Prizes</td>
-                          <td><em>Check <a href=\"/2020/prizes\">here</a> for more info</em></td>
+                          <td><em>Check <a href=\"/2020/prizes\">here</a> for more information</em></td>
                         </tr>
                       </table>
                       <span class=\"infobar-fix\"></span>"
