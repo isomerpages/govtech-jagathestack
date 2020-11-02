@@ -8,10 +8,10 @@ permalink: /
 sections:
     - hero:
         title: STACK the Flags 2020
-        subtitle: A CTF organised by GovTech Cyber Security Group<br><br>Registrations opening in early November!
+        subtitle: A CTF organised by GovTech Cyber Security Group
         background: /images/hero-banner.jpg
-        # button: Register Now
-        # url: https://go.gov.sg/csg-ctf 
+        button: Register Now
+        url: https://go.gov.sg/csg-ctf 
         # key_highlights:
             # - title: Register Now
             #   description: Hurry! Registration closes 4th December!
@@ -40,8 +40,8 @@ sections:
                         <tr>
                           <td>Game Dates</td>
                           <td>
-                            <a href=\"https://time.is/compare 2000_4_Dec_2020_in_SGT\">4th December 2020 9pm UTC+08</a> <em>to</em><br>
-                            <a href=\"https://time.is/compare/2000_6_Dec_2020_in_SGT\">6th December 2020 9pm UTC+08</a><br>
+                            <a href=\"https://time.is/compare 2100_4_Dec_2020_in_SGT\">4th December 2020 9pm UTC+08</a> <em>to</em><br>
+                            <a href=\"https://time.is/compare/2100_6_Dec_2020_in_SGT\">6th December 2020 9pm UTC+08</a><br>
                             <em>Check <a href=\"/2020/schedule\">here</a> for more information</em>
                           </td>
                         </tr>
