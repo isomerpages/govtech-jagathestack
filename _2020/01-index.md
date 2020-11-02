@@ -13,6 +13,5 @@ At the end of the competition, attractive prizes will be awarded to the top team
 
 ## How to register?
 
-The registration link will be released on this page in early November 2020.
-
-In the meantime, please check out [participation section](/2020/participation) so that you are familiar with the participation requirements.
+[Click here](https://go.gov.sg/csg-ctf) to register now!
+The last day of registration will be 3rd December 2020.
