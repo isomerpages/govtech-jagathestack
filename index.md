@@ -54,7 +54,7 @@ sections:
                         </tr>
                         <tr>
                           <td>Registration</td>
-                          <td>Starting in early November</td>
+                          <td><a href=\"https://go.gov.sg/csg-ctf\">Register Now</a></td>
                         </tr>
                         <tr>
                           <td>Prizes</td>
