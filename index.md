@@ -40,8 +40,8 @@ sections:
                         <tr>
                           <td>Game Dates</td>
                           <td>
-                            <a href=\"https://time.is/compare 2000_4_Dec_2020_in_SGT\">4th December 2020 9pm UTC+08</a> <em>to</em><br>
-                            <a href=\"https://time.is/compare/2000_6_Dec_2020_in_SGT\">6th December 2020 9pm UTC+08</a><br>
+                            <a href=\"https://time.is/compare 2100_4_Dec_2020_in_SGT\">4th December 2020 9pm UTC+08</a> <em>to</em><br>
+                            <a href=\"https://time.is/compare/2100_6_Dec_2020_in_SGT\">6th December 2020 9pm UTC+08</a><br>
                             <em>Check <a href=\"/2020/schedule\">here</a> for more information</em>
                           </td>
                         </tr>
