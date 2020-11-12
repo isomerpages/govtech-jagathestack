@@ -12,7 +12,7 @@ The Competition is divided into 3 categories:
 2. Universities and Polytechnics; and
 3. Junior Colleges, Integrated Programmes and Institutes of Technical Education.
 
-All participating teams shall have a maximum of 4 team members, with at least 1 Singaporean Citizen or Singapore Permanent Resident in the team. 
+All participating teams shall have a maximum of 4 team members, with at least 1 Singapore Citizen or Permanent Resident in the team. 
 
 Employees of GovTech and officers seconded to GovTech are not eligible to participate.
 

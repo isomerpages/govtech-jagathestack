@@ -15,3 +15,19 @@ At the end of the competition, attractive prizes will be awarded to the top team
 
 [Click here](https://go.gov.sg/csg-ctf) to register now!
 The last day of registration will be 3rd December 2020.
+
+## What are the types of challenges?
+
+There will be 11 challenge categories:
+
+* Binary Exploitation
+* Cloud
+* Cryptography
+* Forensic
+* Internet of things (IoT)
+* Miscellaneous
+* Mobile
+* Open Source Intelligence (OSINT)
+* Reverse Engineering (RE)
+* Social Engineering (SE)
+* Web
