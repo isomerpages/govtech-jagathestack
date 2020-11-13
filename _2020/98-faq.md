@@ -24,3 +24,9 @@ A: Yes, for participants under the age of 18, we will need your guardian/parent 
 A: If you are new to this such competition do check out an introductory piece by our team -  <https://medium.com/csg-govtech/whats-up-with-the-craze-surrounding-capture-the-flag-ctf-competitions-fb68c57fa803>
 
 You can follow our blog for our technical articles too! - <https://medium.com/csg-govtech>
+
+---
+
+##### Q: What if I have more than 4 friends who want to join the competition?
+
+A: We strongly encourage you and your friends to divide yourselves into teams of up to 4 members. Please ensure that there is at least one Singapore Citizen/Permanent Resident in the team with a local residential address. The Organising Committee will require each team to comply strictly to this requirement. This is to ensure fair competition play and ease of administration for the CTF. Do note that the top 3 winners from each category will go through a video interview to validate the CTF experience.
