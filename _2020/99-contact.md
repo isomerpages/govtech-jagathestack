@@ -7,6 +7,6 @@ collection_name: "2020"
 # Get in Touch
 
 Email: <ctf@tech.gov.sg>
+Discord: <http://discord.gg/wnt38ryJQ4>
 
 Please refer to this website for latest updates on the competition.   
-A Discord channel will be created subsequently and shared with participants for communication purposes. 

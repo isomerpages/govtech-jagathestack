@@ -1,7 +1,7 @@
 contact_us: /contact-us/
 # show_reach: false
 # feedback: https://form.gov.sg/#!/forms/govtech/5bda9d7df5a907000fd1b76e
-# faq: /faq/
+faq: /2020/faq/
 privacy_policy: /privacy-statement/
 terms_of_use: /general-terms-and-conditions/
 copyright_agency: Cyber Security Group</p><p class="last-updated">A Division of GovTech
@@ -26,3 +26,6 @@ navlinks:
       url: https://www.tech.gov.sg/
     - title: STACK
       url: https://stack.gov.sg/
+links:
+  - title: Discord
+    url: http://discord.gg/wnt38ryJQ4
