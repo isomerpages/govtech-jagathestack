@@ -23,7 +23,7 @@ There will be 11 challenge categories:
 * Binary Exploitation
 * Cloud
 * Cryptography
-* Forensic
+* Forensics
 * Internet of things (IoT)
 * Miscellaneous
 * Mobile
