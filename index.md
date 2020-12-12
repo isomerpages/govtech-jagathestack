@@ -26,14 +26,19 @@ sections:
     - infobar:
         title: What is STACK the Flags?
         # subtitle: 
-        description: "STACK the Flags is a Cybersecurity Capture-the-Flag (CTF) competition organised by GovTech Cyber Security Group. "
+        description: "<p>STACK the Flags is a Cybersecurity Capture-the-Flag (CTF) competition organised by GovTech Cyber Security Group. </p><p>The CTF is now over, thank you to everyone who participated and contributed to this competition. You may view the winners <a href=\"/2020/winners\">here</a>, and the people who helped make this CTF a success <a href=\"/2020/contributors\">here</a>.</p>"
         button: Learn More
         url: /2020/
     - infobar:
+        title: View the Write-ups
+        # subtitle: 
+        description: "We are working on the repository for the write-ups, in the meantime, you may view the winning submitted write-ups in the sheet below. "
+        button: Learn More
+        url: https://docs.google.com/spreadsheets/d/1EMgqFpcc_InJZy264AIe1QpvUDFs1-24iTrnKbdoOUo/edit?usp=sharing
+    - infobar:
         title: CTF Summary
         # subtitle: Subtitle
-        description: "<p>The CTF is now over, thank you to everyone who participated and contributed to this competition. You may view the winners <a href=\"/2020/winners\">here</a>, and the people who helped make this CTF a success <a href=\"/2020/contributors\">here</a>.</p><br><br>
-                      <table class=\"info-table\">
+        description: "<table class=\"info-table\">
                         <tr>
                           <td>Format</td>
                           <td>Online, Jeopardy</td>
