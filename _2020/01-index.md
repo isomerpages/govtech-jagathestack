@@ -11,11 +11,6 @@ STACK the Flags 2020 is an online, jeopardy style Capture-the-Flag competition o
 As part of ongoing efforts to engage the technology community, this CTF is open to everyone!
 At the end of the competition, attractive prizes will be awarded to the top teams.
 
-## How to register?
-
-[Click here](https://go.gov.sg/csg-ctf) to register now!
-The last day of registration will be 3rd December 2020.
-
 ## What are the types of challenges?
 
 There will be 11 challenge categories:
