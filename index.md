@@ -8,10 +8,10 @@ permalink: /
 sections:
     - hero:
         title: STACK the Flags 2020
-        subtitle: A CTF organised by GovTech Cyber Security Group
+        subtitle: A CTF organised by GovTech Cyber Security Group<br>The CTF is over! <a href="/2020/winners">Check out the winners here</a>
         background: /images/hero-banner.jpg
-        button: Register Now
-        url: https://go.gov.sg/csg-ctf 
+        # button: Winners
+        # url: /2020/winners
         # key_highlights:
             # - title: Register Now
             #   description: Hurry! Registration closes 4th December!
@@ -26,9 +26,15 @@ sections:
     - infobar:
         title: What is STACK the Flags?
         # subtitle: 
-        description: "STACK the Flags is a Cybersecurity Capture-the-Flag (CTF) competition organised by GovTech Cyber Security Group. "
+        description: "<p>STACK the Flags is a Cybersecurity Capture-the-Flag (CTF) competition organised by GovTech Cyber Security Group. </p><p>The CTF is now over, thank you to everyone who participated and contributed to this competition. You may view the winners <a href=\"/2020/winners\">here</a>, and the people who helped make this CTF a success <a href=\"/2020/contributors\">here</a>.</p>"
         button: Learn More
         url: /2020/
+    - infobar:
+        title: View the Write-ups
+        # subtitle: 
+        description: "We are working on the repository for the write-ups, in the meantime, you may view the winning submitted write-ups in the sheet below. "
+        button: Learn More
+        url: https://docs.google.com/spreadsheets/d/1EMgqFpcc_InJZy264AIe1QpvUDFs1-24iTrnKbdoOUo/edit?usp=sharing
     - infobar:
         title: CTF Summary
         # subtitle: Subtitle
@@ -51,10 +57,6 @@ sections:
                             Teams of up to 4 people, with at least 1 Singapore Citizen or Permanent Resident. 3 categories to participate in.<br>
                             <em>Check <a href=\"/2020/participation\">here</a> for more information</em>
                           </td>
-                        </tr>
-                        <tr>
-                          <td>Registration</td>
-                          <td><a href=\"https://go.gov.sg/csg-ctf\">Register Now</a></td>
                         </tr>
                         <tr>
                           <td>Prizes</td>
