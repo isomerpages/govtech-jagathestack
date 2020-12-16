@@ -12,7 +12,7 @@ Congratulations to all the Winners for STACK the Flags 2020. Each member of the 
 
 Position | Team | Score | Prize
 ---|---|---|---
-1st | Perfect Blue | 69144 | SGD $15000
+1st | perfect blue | 69144 | SGD $15000
 2nd | chicken RCE | 64191 | SGD $10000
 3rd | PwningActionParty | 57202 | SGD $4000
 4th | PDKT | 55069 | -
@@ -70,7 +70,7 @@ Unfortunately, there were no winners for the “Master of Reverse Engineering an
 Challenge | Winning Team
 ---|---
 All about Korovax! | BunchOfBytes
-All Roads Lead to Rome! | Stanglehold
+All Roads Lead to Rome! | Stranglehold
 An invitation | pp
 Beta reporting system | Shinrabansho
 Breaking Free | SIG0CT
@@ -107,6 +107,7 @@ True or false? | QWERTY
 Unlock Me | OV3RWR1T3
 Voices in the head | Team Mitsuha
 Walking down a colourful memory lane | NYCP
+Welcome to Korovax Mobile! | 0x1EA7BEEF
 What is he working on? Some high value project? | :thinking: but brainrot
 What is this weird program? | Chicken RCE
 What's with the Search! | Team LIFO
