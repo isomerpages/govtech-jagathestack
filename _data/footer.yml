@@ -13,10 +13,12 @@ social_media:
     linkedin: https://www.linkedin.com/company/GovTech-Singapore 
 navlinks:
   - title: Competitions
-    url: /2020/
+    url: /2022/
     sublinks:
       - title: 2020
         url: /2020/
+      - title: 2022
+        url: /2022/
   - title: About Us
     url: "javascript:;"
     sublinks:
