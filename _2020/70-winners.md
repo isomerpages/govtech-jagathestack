@@ -67,6 +67,8 @@ Unfortunately, there were no winners for the “Master of Reverse Engineering an
 
 ## Write-up Awards
 
+You may find a list of all write-ups [here](https://docs.google.com/spreadsheets/d/1EMgqFpcc_InJZy264AIe1QpvUDFs1-24iTrnKbdoOUo/edit?usp=sharing).
+
 Challenge | Winning Team
 ---|---
 All about Korovax! | BunchOfBytes

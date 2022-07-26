@@ -21,8 +21,10 @@ colors:
 collections:
   "2020":
     output: true
+  "2022":
+    output: true
 
-google_analytics: UA-108456255-2
+google_analytics: G-75WX01CW1E
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
