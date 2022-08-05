@@ -7,4 +7,4 @@ collection_name: "2022"
 
 ## What is STACK the Flags?
 
-The next iteration of STACK the Flags is scheduled to be in 2022, hope to see you there!
+The next iteration of STACK the Flags is scheduled to be in 2022, hope to see you there!!
