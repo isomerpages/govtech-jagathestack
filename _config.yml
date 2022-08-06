@@ -21,7 +21,7 @@ colors:
 collections:
   "2020":
     output: true
-  "2022":
+  "2022_STF":
     output: true
 
 google_analytics: G-75WX01CW1E
