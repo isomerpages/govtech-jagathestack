@@ -1,6 +1,6 @@
 ---
 title: Privacy Statement
-permalink: /privacy-statement/
+permalink: /2020/privacy-statement
 collection_name: "2020"
 ---
 
@@ -40,7 +40,7 @@ Upon such withdrawal, the Organising Committee may in its discretion adjust the 
 
 ### Contact Information
 
-Please [contact us](/contact-us/) if you:
+Please [contact us](/2020/contact-us) if you:
 
 1. have any enquires or feedback on our data protection, policies and procedures; or
 2. need more information on or access to data which you have provided directly to us in the past.

@@ -70,6 +70,6 @@ Groups and participants found to be cheating will be disqualified from all prize
 
 By participating in this competition, all participating teams and its members agree to the provisions as written in the following:
 
-1.	STACK the Flags [General Terms and Conditions](/general-terms-and-conditions/);
-2.	STACK the Flags [Privacy Statement](/privacy-statement/); and
+1.	STACK the Flags [General Terms and Conditions](/2020/general-terms-and-conditions);
+2.	STACK the Flags [Privacy Statement](/2020/privacy-statement); and
 3.	STACK the Flags Rules.
