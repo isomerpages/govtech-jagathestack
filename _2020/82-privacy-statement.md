@@ -34,7 +34,7 @@ Participating teams should provide an electronic mail address that is suitable f
 Participating team members may withdraw consent for use of their personal data at any time upon reasonable notice to the Organising Committee, subject to legal or contractual restrictions or public interest requirements. 
 Upon such withdrawal, the Organising Committee may in its discretion adjust the status of the Competition, including:
 
-1. Deem the participating team to have withdrawn from the Competition if the withdrawal of consent for use of its members’ personal data (or parents/guardians’ personal data where applicable) renders it administratively impracticable to allow the participating team to remain in the Competition;
+1. Deem the participating team to have withdrawn from the Competition if the withdrawal of consent for use of its members' personal data (or parents/guardians' personal data where applicable) renders it administratively impracticable to allow the participating team to remain in the Competition;
 2. Adjust the Competition ranking;
 3. Award the Competition prizes and benefits to another participating team or otherwise dispose of the same as the Organising Committee deems fit if no other winning team can be conferred or identified the prizes and benefits.
 
