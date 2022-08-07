@@ -7,10 +7,10 @@
 logo: /images/logo.png
 
 links:
-  - title: STACK the Codes
-    url: /2022/stack-the-codes/
-  - title: STACK the Flags
-    url: /2022/stack-the-flags/
+  # - title: STACK the Codes
+  #   url: /2022/stack-the-codes/
+  # - title: STACK the Flags
+  #   url: /2022/stack-the-flags/
   # - title: Combined Prize Ceremony
   #   url: /contact-us/
   # - title: Contact Us

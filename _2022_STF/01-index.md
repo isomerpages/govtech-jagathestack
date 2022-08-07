@@ -27,11 +27,11 @@ There will be 11 challenge categories:
 * Mobile
 * Open Source Intelligence (OSINT)
 * Reverse Engineering (RE)
-* Social Engineering (SE)
+* Fullpwn
 * Web
 
 ---|---
 Format | Online, Jeopardy   
-Game Dates | TBC
+Game Dates | 2nd December 2022 to 4th December 2022
 Participation | Teams of up to 4 people, with at least 1 Singapore Citizen or Permanent Resident. [Check here for more information](/2022/stack-the-flags/participation)
 Prizes | [Check here for more information](/2022/stack-the-flags/prizes)

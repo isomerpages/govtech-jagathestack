@@ -11,20 +11,19 @@ sections:
         background: /images/hero-banner.png 
         # button: Winners
         # url: /2020/winners
-        # key_highlights:
-            # - title: Register Now
-            #   description: Hurry! Registration closes 4th December!
-            #   url: https://go.gov.sg/csg-ctf 
-            # - title: CTF Details
-            #   description: Check out the details for this year's CTF here
-            #   url: /2020/
-            #- title: Discord
-            #  description: Join the discord 
-            #  url: https://gmail.com
+        key_highlights:
+            - title: STACK The Flags
+              description: Bigger, Better, Penetration!
+              url: /2022/stack-the-flags/
+            - title: STACK The Codes
+              description: Gotta shift left!
+              url: /2022/stack-the-codes/
+            - title: Combined Prize Ceremony
+             description: Coming Soon
+             url: /
         title: >
             <span class="hero-title-outline">Jaga the<br>STACK</span>
             <span class="hero-title">Jaga the<br>STACK</span>
-    
     - infopic:
         title: What is Jaga the STACK?
         image: /images/jaga/JTS-icon.png
