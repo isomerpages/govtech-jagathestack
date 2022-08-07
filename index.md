@@ -11,16 +11,16 @@ sections:
         background: /images/hero-banner.png 
         # button: Winners
         # url: /2020/winners
-        key_highlights:
-            - title: STACK The Flags
-              description: Bigger, Better, Penetration!
-              url: /2022/stack-the-flags/
-            - title: STACK The Codes
-              description: Gotta shift left!
-              url: /2022/stack-the-codes/
-            - title: Combined Prize Ceremony
-             description: Coming Soon
-             url: /
+        # key_highlights:
+        #     - title: STACK The Flags
+        #       description: Bigger, Better, Penetration!
+        #       url: /2022/stack-the-flags/
+        #     - title: STACK The Codes
+        #       description: Gotta shift left!
+        #       url: /2022/stack-the-codes/
+        #     - title: Combined Prize Ceremony
+        #      description: Coming Soon
+        #      url: /
         title: >
             <span class="hero-title-outline">Jaga the<br>STACK</span>
             <span class="hero-title">Jaga the<br>STACK</span>
