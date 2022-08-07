@@ -24,6 +24,7 @@ sections:
         title: >
             <span class="hero-title-outline">Jaga the<br>STACK</span>
             <span class="hero-title">Jaga the<br>STACK</span>
+
     - infopic:
         title: What is Jaga the STACK?
         image: /images/jaga/JTS-icon.png
