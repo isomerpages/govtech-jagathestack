@@ -12,12 +12,12 @@ sections:
         # button: Winners
         # url: /2020/winners
         key_highlights:
-            - title: STACK The Flags
-              description: Bigger, Better, Penetration!
-              url: /2022/stack-the-flags/
             - title: STACK The Codes
               description: Gotta shift left!
               url: /2022/stack-the-codes/
+            - title: STACK The Flags
+              description: Bigger, Better, Penetration!
+              url: /2022/stack-the-flags/
             - title: Combined Prize Ceremony
               description: Coming Soon
               url: /
