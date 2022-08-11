@@ -1,10 +1,10 @@
 ---
 title: Contact Us
-permalink: /contact-us/
+permalink: /2020/contact-us
 collection_name: "2020"
 ---
 
-# Get in Touch
+## Get in Touch
 
 Email: <ctf@tech.gov.sg>  
 Discord: <http://discord.gg/wnt38ryJQ4>

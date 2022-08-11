@@ -1,34 +1,56 @@
 ---
 layout: homepage
-title: STACK the Flags
-description: STACK the Flags is a Cybersecurity Capture-the-Flag (CTF) competition organised by GovTech Cyber Security Group (CSG).
+title: Jaga the STACK
+description: Jaga the STACK is GovTech Cyber Security Group's (CSG) event banner.
 image: /images/logo.png
 permalink: /
 # notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: STACK the Flags
-        subtitle: A CTF organised by GovTech Cyber Security Group<br>See you in 2022 for the next STACK the Flags!<br>Check out the winners for the 2020 CTF <a href="/2020/winners">here</a>
-        background: /images/hero-banner.jpg
+        # subtitle: A CTF organised by GovTech Cyber Security Group<br>See you in 2022 for the next STACK the Flags!<br>Check out the winners for the 2020 CTF <a href="/2020/winners">here</a>
+        background: /images/hero-banner.png 
         # button: Winners
         # url: /2020/winners
-        # key_highlights:
-            # - title: Register Now
-            #   description: Hurry! Registration closes 4th December!
-            #   url: https://go.gov.sg/csg-ctf 
-            # - title: CTF Details
-            #   description: Check out the details for this year's CTF here
-            #   url: /2020/
-            #- title: Discord
-            #  description: Join the discord 
-            #  url: https://gmail.com
-    
-    - infobar:
-        title: What is STACK the Flags?
-        # subtitle: 
-        description: "<p>STACK the Flags is a Cybersecurity Capture-the-Flag (CTF) competition organised by GovTech Cyber Security Group. </p><p>The CTF for 2020 is now over, thank you to everyone who participated and contributed to this competition. You may view the winners <a href=\"/2020/winners\">here</a>, and the people who helped make this CTF a success <a href=\"/2020/contributors\">here</a>. Look forward to the next iteration of the CTF in 2022.</p>"
+        key_highlights:
+            - title: STACK The Flags
+              description: Bigger, Better, Penetration!
+              url: /2022/stack-the-flags/
+            - title: STACK The Codes
+              description: Gotta shift left!
+              url: /2022/stack-the-codes/
+            - title: Combined Prize Ceremony
+              description: Coming Soon
+              url: /
+        title: >
+            <span class="hero-title-outline">Jaga the<br>STACK</span>
+            <span class="hero-title">Jaga the<br>STACK</span>
+
+    - infopic:
+        title: What is Jaga the STACK?
+        image: /images/jaga/JTS-icon.png
+        alt: Jaga the STACK icon
+        description: "Jaga the STACK (JTS) houses GovTech Cyber Security Group's community engagement events. This year's edition of JTS features a Cybersecurity Hackathon, a Capture-the-Flag event, as well as a Combined Prize Ceremony and Networking session."
+    - infopic:
+        title: STACK the Flags
+        image: /images/jaga/STF-icon.png
+        alt: STACK the Flags icon
+        description: "Singapore's largest 2020 CTF event returns for a second iteration! STACK the Flags is a jeopardy style Capture-the-Flag competition where participants gain points for completing cybersecurity challenges. Partake in challenges spanning various areas of cybersecurity!"
         button: Learn More
-        url: /2022/
+        url: /2022/stack-the-flags
+    - infopic:
+        title: STACK the Codes
+        image: /images/jaga/STC-icon.png
+        alt: STACK the Codes icon
+        description: "GovTech will premiere Singapore's first ever Government Cybersecurity Hackathon, inviting the community to provide novel solutions to current cybersecurity issues. Winning solutions will receive exciting mentorship opportunities and funding!"
+        button: Learn More
+        url: /2022/stack-the-codes
+    - infopic:
+        title: Jaga the STACK Finale
+        image: /images/jaga/WHA-icon.png
+        alt: Whitehat Appreciation icon    
+        description: "The JTS initiative culminates in an Award Ceremony to celebrate the achievements of top teams from STACK the Flags and STACK the Codes, as well as contributions of Whitehats under GovTech's <abbr title=\"Crowdsourced Vulnerability Discovery\">CVD</abbr> programme. More details will be provided soon."
+        # button: Learn More
+        # url: /2022/whitehat-appreciation
     - infobar:
         # title:
         subtitle: "Brought to you proudly by"

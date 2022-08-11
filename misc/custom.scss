@@ -364,8 +364,33 @@ a {
   background: rgba(0, 0, 0, 0);
 }
 
-h1.display {
+.hero-title {
+  font-size:7rem;
+  color: #80EDFF;
+  z-index: 1;
+  position: relative;
+  line-height: 1.1;
   text-shadow: 0 0 9px #323232;
+}
+
+.hero-title-outline {
+  font-size:7rem;
+  color: transparent;
+  z-index: 0;
+  position: absolute;
+  line-height: 1.1;
+  transform: translate(10px,-10px);
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 1px #FF06F3;
+  user-select: none;
+}
+
+h1.display {
+  // text-shadow: 0 0 9px #323232;
+}
+
+.navbar .navbar-item a {
+  color: white;
 }
 
 .infobar-fix {

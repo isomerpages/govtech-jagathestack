@@ -63,7 +63,7 @@ Forensicator | chicken RCE | 41.1 | SGD $150
 Intelligence Officer | theZoo | 4.6 | SGD $150
 Chief Human Hacker | :thinking: but brainrot | 40.9 | SGD $150
 
-Unfortunately, there were no winners for the “Master of Reverse Engineering and Exploitation”, “Cloud Guru" and “IoT Crypto Expert” categories 
+Unfortunately, there were no winners for the "Master of Reverse Engineering and Exploitation", "Cloud Guru" and "IoT Crypto Expert" categories 
 
 ## Write-up Awards
 
@@ -81,7 +81,7 @@ Can COViD steal Bob's idea? | noName
 Can you trick OrgX into giving away their credentials? | ItzyBitzySpider
 Corrupted Hive | Team Mitsuha
 COViD is able to compromise our IoT encryption system, how come? | Shuenonkit
-COViD’s Communication Technology | ItzyBitzySpider
+COViD's Communication Technology | ItzyBitzySpider
 Feed the Beast | Mushroom
 Figure out this missive from COViD to his intern! | Chicken RCE
 Find the last seen location of where one of the Korovax's staff is at | :thinking: but brainrot
