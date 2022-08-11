@@ -21,9 +21,9 @@ sections:
             - title: Combined Prize Ceremony
               description: Coming Soon
               url: /
-        title: >
-            <span class="hero-title-outline">Jaga the<br>STACK</span>
-            <span class="hero-title">Jaga the<br>STACK</span>
+        # title: >
+        #     <span class="hero-title-outline">Jaga the<br>STACK</span>
+        #     <span class="hero-title">Jaga the<br>STACK</span>
 
     - infopic:
         title: What is Jaga the STACK?
