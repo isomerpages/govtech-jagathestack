@@ -26,7 +26,7 @@ sections:
         title: What is Jaga the STACK?
         image: /images/jaga/JTS-icon.png
         alt: Jaga the STACK icon
-        description: "Jaga the STACK (JTS) houses GovTech Cyber Security Group's community engagement events. This year's edition of JTS features a Cybersecurity Hackathon, a Capture-the-Flag event, as well as a Combined Prize Ceremony and Networking session."
+        description: "Jaga the STACK (JTS) houses GovTech Cyber Security Group's community engagement events. This year's edition of JTS features Singapore's first Government Cybersecurity Hackathon, a Capture-the-Flag event, and the Jaga-the-Stack Finale which comprises of a combined prize ceremony and networking session."
     - infopic:
         title: STACK the Codes
         image: /images/jaga/STC-icon.png
