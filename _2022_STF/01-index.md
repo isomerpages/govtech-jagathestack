@@ -1,5 +1,5 @@
 ---
-title: STACK the Flags 2022
+title: Overview
 breadcrumb: Overview
 permalink: /2022/stack-the-flags
 collection_name: "2022_STF"
