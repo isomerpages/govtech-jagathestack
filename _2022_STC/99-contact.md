@@ -6,4 +6,4 @@ collection_name: "2022_STC"
 
 # Get in Touch
 
-Coming soon!
+You may reach us at jts@tech.gov.sg for any queries

@@ -4,7 +4,7 @@ title: Jaga the STACK
 description: Jaga the STACK is GovTech Cyber Security Group's (CSG) event banner.
 image: /images/logo.png
 permalink: /
-notification: STACK The Codes is now open for <a href="https://google.com">registrations</a>!
+notification: STACK The Codes is now open for <a href="https://google.com">registrations</a>! 
 sections:
     - hero:
         # subtitle: A CTF organised by GovTech Cyber Security Group<br>See you in 2022 for the next STACK the Flags!<br>Check out the winners for the 2020 CTF <a href="/2020/winners">here</a>
@@ -31,14 +31,14 @@ sections:
         title: STACK the Codes
         image: /images/jaga/STC-icon.png
         alt: STACK the Codes icon
-        description: "GovTech will premiere Singapore's first ever Government Cybersecurity Hackathon, inviting the community to provide novel solutions to current cybersecurity issues. Winning solutions will receive exciting mentorship opportunities and funding!"
+        description: "GovTech will premiere Singapore's first ever Government Cybersecurity Hackathon, inviting the community to provide novel solutions to current cybersecurity issues. Winning solutions will receive exciting mentorship opportunities and funding!" 
         button: Learn More
         url: /2022/stack-the-codes
     - infopic:
         title: STACK the Flags
         image: /images/jaga/STF-icon.png
         alt: STACK the Flags icon
-        description: "Singapore's largest 2020 CTF event returns for a second iteration! STACK the Flags is a jeopardy style Capture-the-Flag competition where participants gain points for completing cybersecurity challenges. Partake in challenges spanning various areas of cybersecurity!"
+        description: "Singapore's largest 2020 CTF event returns for a second iteration! STACK the Flags is a jeopardy style Capture-the-Flag competition where participants gain points for completing cybersecurity challenges. Partake in challenges spanning various areas of cybersecurity!" 
         button: Learn More
         url: /2022/stack-the-flags
     - infopic:
@@ -52,5 +52,5 @@ sections:
         # title:
         subtitle: "Brought to you proudly by"
         description: "<img style=\"padding-right:1em\" src=\"/images/govtech-logo.png\">
-                        <img src=\"/images/csg-logo.png\">"
+                        <img src=\"/images/csg-logo.png\">" 
 ---

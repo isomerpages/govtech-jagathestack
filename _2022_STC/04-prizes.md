@@ -4,4 +4,4 @@ permalink: /2022/stack-the-codes/prizes
 collection_name: "2022_STC"
 ---
 
-Coming soon!
+![Prize Money](/images/stc/stc_prize.jpg)
