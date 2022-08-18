@@ -4,7 +4,7 @@ title: Jaga the STACK
 description: Jaga the STACK is GovTech Cyber Security Group's (CSG) event banner.
 image: /images/logo.png
 permalink: /
-notification: STACK The Codes is now open for <a href="https://google.com">registrations</a>! 
+notification: STACK The Codes is now open for <a href="https://form.gov.sg/62f60859979afc0012a4e640">registrations</a>! 
 sections:
     - hero:
         # subtitle: A CTF organised by GovTech Cyber Security Group<br>See you in 2022 for the next STACK the Flags!<br>Check out the winners for the 2020 CTF <a href="/2020/winners">here</a>
@@ -14,7 +14,7 @@ sections:
         key_highlights:
             - title: STACK The Codes
               description: Register by 6 October
-              url: /2022/stack-the-codes/
+              url: https://form.gov.sg/62f60859979afc0012a4e640
             - title: STACK The Flags 
               description: Coming Soon!
               url: /
