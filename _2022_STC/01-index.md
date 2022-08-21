@@ -2,10 +2,11 @@
 title: Overview
 breadcrumb: Overview
 permalink: /2022/stack-the-codes
+image: /images/stc/STC_banner.png
 collection_name: "2022_STC"
 ---
 
-## What is STACK the Codes?
+![STACK the Codes banner](/images/stc/STC_banner.png)
 
 STACK the Codes 2022 is a Cybersecurity Hackathon that invites the technology community to produce novel solutions to current cybersecurity issues.
 
