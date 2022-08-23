@@ -5,12 +5,14 @@ collection_name: "2022_STC"
 ---
 ## Participation Eligibility
 
-The Competition is open to all ages, professions and gender.<br>
-All participating teams shall have a maximum of 3 team members, with at least 1 Singapore Citizen or Permanent Resident in the team.
+STACK the Codes is open to all. 
+<br><br>
+All participating teams can have a maximum of 3 team members, with at least 1 Singapore Citizen or Permanent Resident in the team.
 <br><br>
 Employees of GovTech and officers seconded to GovTech are not eligible to participate.
 <br><br>
-Participants who are below 18 years old as at the date of the Competition must have proper parental/guardian’s consent to participate in the Competition. The parental/guardian consent form is provided here. Participants under 18 years old will be automatically disqualified from the Competition if proper consent has not been obtained and submitted before the start of the Competition.
+Participants under the age of 18 at the start date of the Competition must obtain proper parental/guardian’s consent to participate in the Competition. The parental/guardian consent form can be found here and must be submitted before the competition starts. 
 <br><br>
-Teams which fail to comply with the above mentioned requirements shall be automatically disqualified from the Competition.
+Teams that fail to comply with the above-mentioned requirements can be automatically disqualified from the Competition.
+
 

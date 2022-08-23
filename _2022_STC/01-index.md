@@ -8,25 +8,14 @@ collection_name: "2022_STC"
 
 ![STACK the Codes banner](/images/stc/STC_banner.png)
 
-STACK the Codes 2022 is a Cybersecurity Hackathon that invites the technology community to produce novel solutions to current cybersecurity issues.
+Join STACK the Codes Hackathon and play the role of a specialist developing solutions to tackle real-world cybersecurity problems faced by the Singapore Government.
 
+[Click here to sign up now](https://form.gov.sg/62f60859979afc0012a4e640)!
 
-## How is STACK the Codes different from other hackathons?
+### Why should I join STACK the Codes?
 
-### STC is the first government organized Cybersecurity Hackathon
+As the first cybersecurity Hackathon organised by the Singapore Government, STACK the Codes offers you a unique insight at the cybersecurity threats the public sector faces. Our problem statements are adapted from this perspective and will involve areas such as Red Teaming, Blue Teaming, Policy Planning, and Operations.
 
-STC is the first Cybersecurity Hackathon organized by the Singapore Government, and focuses on problem statements relevant to the work of GovTech's Cyber Security Group (For instance, involving areas of Red Teaming, Blue Teaming, Policy Planning, and Operations).
+While traditional Hackathons are held over a 24 to 48-hour period, STACK the Codes’ structure and framework will give competitors 30 days to ideate and develop fully functioning Minimum Viable Products. The top 10 teams will be invited to GovTech’s flagship conference, STACK 2022, to present their solutions to a panel of judges from GovTech. Teams with the best solutions stand to earn an opportunity to further develop their solutions under the mentorship of GovTech’s Cyber Security Group to produce a fully functional Proof of Concept.
 
-### STC aims to encourage the production of fully functional proof-of-concepts
-
-The development timeframe for submissions is extended from the usual 24 hours to a 30 day timeline.
-This encourages the production of a well-functioning Minimum-Viable Product.
-The top three winning solutions will also receive continued support after the event to produce fully functional Proof-of-Concepts (PoC), such as technical mentorship from cybersecurity specialists in Cyber Security Group, and potential PoC funding.
-
-### STC is open to all*
-
-STC is open to all, whether you are a student or working professional.
-What are you waiting for?
-Sign up for STC today!
-
-\**Terms and conditions apply. Please refer to the competition conduct for further information.*
+\**Terms and conditions apply. Please refer to the general terms and conditions for further information.*

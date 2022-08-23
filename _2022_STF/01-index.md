@@ -5,19 +5,17 @@ permalink: /2022/stack-the-flags
 collection_name: "2022_STF"
 ---
 
-## What is STACK the Flags?
+![STACK the Codes banner](/images/stf/STF_banner.png)
 
-STACK the Flags 2022 is an online, jeopardy style Capture-the-Flag competition organised by the folks in GovTech's Cyber Security Group (CSG). 
-As part of ongoing efforts to engage the technology community, this CTF is open to everyone!
-At the end of the competition, attractive prizes will be awarded to the top teams.
+STACK the Flags is a 48-hour, online jeopardy style Capture-the-Flag competition organised by GovTech’s Cyber Security Group. 
 
-If you're looking for the 2020 edition of the competition, [click here](/2020).
+Registration will be open soon!
 
+## Why should I join STACK the Flags?
 
-## What are the types of challenges?
+Participants will get to compete and test their cybersecurity skills in challenges across 11 different cybersecurity domains. 
 
-There will be 11 challenge categories:
-
+The categories are:
 * Binary Exploitation
 * Cloud
 * Cryptography
@@ -32,6 +30,6 @@ There will be 11 challenge categories:
 
 ---|---
 Format | Online, Jeopardy   
-Game Dates | 2nd December 2022 to 4th December 2022
+Game Dates | 2 December 2022 to 4 December 2022
 Participation | Teams of up to 4 people, with at least 1 Singapore Citizen or Permanent Resident. [Check here for more information](/2022/stack-the-flags/participation)
 Prizes | [Check here for more information](/2022/stack-the-flags/prizes)

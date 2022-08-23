@@ -8,14 +8,14 @@ collection_name: "2022_STC"
 
 ![FAQ](/images/stc/FAQ.jpg)
 
-1. What are the max amount of participants a team?
-- Max 3 people per team (at least 1 Singaporean/PR)
+<b>Q. What is the maximum number of participants for one team?</b><br>
+A. All participating teams can have a maximum of 3 team members, with at least 1 Singapore Citizen or Permanent Resident in the team.
 
-2. Can I submit for multiple problem statements
-- Yes you can, however note that each problem statement is unique and not transferrable, do evaluate the effort required for each problem statement
+<b>Q. Can I submit for multiple problem statements</b><br>
+A. Each team may submit for multiple problem statements. Please note that each problem statement is unique and not transferrable, and teams are advised to evaluate the resource required for each problem statement.
 
-3. How are the winners selected?
-- Winners go through 2 rounds of judging and are selected based on the completeness of their solutions including but not limited to; scalability, uniqueness and feasibility
+<b>Q. How are the winning teams selected?</b><br>
+A. Winning teams will undergo two rounds of evaluation and are selected based on the completeness of their solutions including but not limited to; scalability, uniqueness and feasibility.
 
-4. Are we required to create a technical solution?
-- Yes, the extended duration for Round One (1 month) is specially crafted to ensure the completeness of your prototype. Do note that you are required to submit your source code, a video demo and a full wiki readme (can be part of your repository).
+<b>Q. Are we required to create a technical solution?</b><br>
+A. Teams are expected to create a technical solution. The extended duration for Round One (30 days) is specially crafted to ensure the completeness of your prototype. Teams are required to submit their source code, a video demo and a full wiki readme (this can be part of your repository).

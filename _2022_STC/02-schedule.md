@@ -4,15 +4,17 @@ permalink: /2022/stack-the-codes/schedule
 collection_name: "2022_STC"
 ---
 
-## Schedule
+## Competition Schedule
 
 All dates and times are provided in UTC+08 and are subject to change.
 
 
 Event | Date
 ---|---
-Registration | XX September 2022 to 6th October 2022
-Round 1 Shortlisting on GatherTown Platform | 7th October 2022 to 6th November 2022
-Round 2 On-site Finals at STACK Conference | 15th November 2022
-Combined Award Ceremony | 8th December 2022 (tentative)
-Co-Development Cycle (Direct CSG Mentorship) | December 2022 to May 2023
+Registration | Now till 6 October 2022
+Round 1: Competition period | 7 October 2022 to 6 November 2022
+Shortlisting of submissions | 7 November 2022 to 10 November 2022
+Notifying top 10 teams | 12 November 2022
+Round 2: Presentation at STACK Conference | 15 November 2022
+Physical Prize Ceremony | 8 December 2022
+Co-Development Cycle | December 2022 to May 2023

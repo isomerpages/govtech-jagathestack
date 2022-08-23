@@ -6,8 +6,7 @@ collection_name: "2022_STC"
 
 ## STACK the Flags Privacy Statement
 
-STACK the Codes Hackathon 2022, which is organized by Government Technology Agency ("GovTech"), only collects data that is needed to ensure smooth delivery of the Competition.
-GovTech is committed to safeguarding your privacy and will use the data for administrative purposes before, during and after the Competition.
+STACK the Codes Hackathon 2022 (the “Competition”), organised by Government Technology Agency (“GovTech”), only collects data that is needed to ensure smooth delivery of the Competition. GovTech is committed to safeguarding your privacy and will use the data for administrative purposes before, during and after the Competition.
 
 To participate in the Competition, GovTech will require the following information from the participating teams:
 

@@ -9,8 +9,8 @@ logo: /images/logo.png
 links:
   - title: STACK the Codes
     collection: 2022_STC
-  - title: STACK the Flags<br>(Coming Soon)
-    url: /
+  - title: STACK the Flags
+    collection: 2022_STF
   - title: Contact Us
     url: /2022/stack-the-codes/contact-us
 

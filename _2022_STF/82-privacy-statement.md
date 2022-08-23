@@ -6,7 +6,7 @@ collection_name: "2022_STF"
 
 ## STACK the Flags Privacy Statement
 
-The STACK the Flags Competition 2022 (the "Competition"), which is organised by Government Technology Agency ("GovTech"), only collects data that is needed to ensure the smooth delivery of the Competition. 
+The STACK the Flags Competition (the “Competition”), organised by Government Technology Agency (“GovTech”), only collects data that is needed to ensure the smooth delivery of the Competition. GovTech is committed to safeguarding your privacy and will use the data for administrative purposes before, during and after the Competition.
 GovTech is committed to safeguarding your privacy and will use the data for administrative purposes before, during and after the Competition. 
 By submitting the registration form, the participating team members (and parents/guardians of the team members, where applicable) agree that GovTech may collect, use and disclose the personal data as provided in the registration form, for such administrative purposes. 
 
@@ -40,7 +40,7 @@ Upon such withdrawal, the Organising Committee may in its discretion adjust the 
 
 ### Contact Information
 
-Please [contact us](/contact-us) if you:
+Please [contact us](/2022/stack-the-flags/contact-us) if you:
 
 1. have any enquires or feedback on our data protection, policies and procedures; or
 2. need more information on or access to data which you have provided directly to us in the past.

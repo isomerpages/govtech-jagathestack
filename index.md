@@ -13,7 +13,7 @@ sections:
         key_highlights:
             - title: STACK The Codes
               description: Register by 6 October
-              url: https://form.gov.sg/62f60859979afc0012a4e640
+              url: https://form.gov.sg/62f60859979afc0012a4e640 
             - title: STACK The Flags 
               description: Coming Soon!
               url: /
@@ -21,36 +21,39 @@ sections:
         #     <span class="hero-title-outline">Jaga the<br>STACK</span>
         #     <span class="hero-title">Jaga the<br>STACK</span>
 
-    - infopic:
+    - infopic: 
         title: STACK the Codes
         image: /images/jaga/STC-icon.png
         alt: STACK the Codes icon
-        description: "GovTech will premiere Singapore's first ever Government Cybersecurity Hackathon, inviting the community to provide novel solutions to current cybersecurity issues. Winning solutions will receive exciting mentorship opportunities and funding!" 
+        subtitle: 7 Oct – 15 Nov 2022
+        description: "Compete in STACK the Codes and stand a chance to bring your ideas to life. STACK the Codes gives competitors 30 days to ideate and develop minimum viable products. The top solutions will be considered for mentorship opportunities under GovTech’s Cyber Security Group to produce a fully functioning Proof-of-Concept!" 
         button: Learn More
         url: /2022/stack-the-codes
     - infopic:
         title: STACK the Flags
         image: /images/jaga/STF-icon.png
         alt: STACK the Flags icon
-        description: "Singapore's largest 2020 CTF event returns for a second iteration! STACK the Flags is a jeopardy style Capture-the-Flag competition where participants gain points for completing cybersecurity challenges. Partake in challenges spanning various areas of cybersecurity!" 
+        subtitle: 2 – 4 Dec 2022
+        description: "STACK the Flags is back for its second edition! Pit your skills against local and international cybersecurity communities in a 48-hour jeopardy style Capture-the-Flag competition. STACK the Flags offers challenges across 11 different cybersecurity domains such as Binary Exploitation, Cloud, Cryptography and Internet of Things. Capture the most flags and stand a chance to win attractive prizes!" 
         button: Learn More
         url: /2022/stack-the-flags
     - infopic:
         title: Jaga the STACK Finale
         image: /images/jaga/WHA-icon.png
-        alt: Whitehat Appreciation icon    
-        description: "The JTS initiative culminates in an Award Ceremony to celebrate the achievements of top teams from STACK the Flags and STACK the Codes, as well as contributions of Whitehats under GovTech's <abbr title=\"Crowdsourced Vulnerability Discovery\">CVD</abbr> programme. More details will be provided soon."
+        alt: Whitehat Appreciation icon 
+        subtitle: 8 Dec 2022   
+        description: "Jaga the STACK culminates in a finale prize presentation to celebrate the achievements of top teams from STACK the Codes and STACK the Flags, as well as recognise top local white hats for their contributions to government cybersecurity through GovTech’s crowdsource vulnerability disclosure programmes. Stay tuned for more details."
         # button: Learn More
         # url: /2022/whitehat-appreciation
     - infopic:
-        title: What is Jaga the STACK?
+        title: About Jaga the STACK
         image: /images/jaga/JTS-icon.png
         alt: Jaga the STACK icon
-        description: "Jaga the STACK (JTS) houses GovTech Cyber Security Group's community engagement events. This year's edition of JTS features Singapore's first Government Cybersecurity Hackathon, a Capture-the-Flag event, and the Jaga-the-Stack Finale which comprises of a combined prize ceremony and networking session."
+        description: "Jaga the STACK is GovTech’s Cyber Security Group's flagship community engagement programme that seeks to build a community of local security researchers to create solutions for cybersecurity challenges, as well as deliver impactful and meaningful experiences for the cybersecurity community."
     - infobar:
         description: <iframe width="800" height="450" src="https://www.youtube.com/embed/5m73qekOaAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     - infobar:
         subtitle: "Organized by"
-        description: "<img style=\"padding-right:2em\" src=\"/images/govtech-logo.png\">
+        description: "<img style=\"padding-right:2em;\" src=\"/images/govtech-logo.png\">
                         <img src=\"/images/csg-logo.png\">" 
 ---

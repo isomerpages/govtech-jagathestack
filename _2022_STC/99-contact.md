@@ -6,4 +6,4 @@ collection_name: "2022_STC"
 
 # Get in Touch
 
-You may reach us at jts@tech.gov.sg for any queries
+You may contact us at jts@tech.gov.sg should you have further queries.

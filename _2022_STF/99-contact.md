@@ -6,6 +6,6 @@ collection_name: "2022_STF"
 
 # Get in Touch
 
-Discord: <http://discord.gg/wnt38ryJQ4>
+You may contact us at jts@tech.gov.sg should you have further queries.
 
-Please refer to this website for latest updates on the competition.   
+Discord: <http://discord.gg/wnt38ryJQ4>
