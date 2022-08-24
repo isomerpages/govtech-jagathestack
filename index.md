@@ -53,7 +53,6 @@ sections:
     - infobar:
         description: <iframe width="800" height="450" src="https://www.youtube.com/embed/kw-S84kgyGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     - infobar:
-        subtitle: "Organized by"
-        description: "<img style=\"padding-right:2em;\" src=\"/images/govtech-logo.png\">
-                        <img src=\"/images/csg-logo.png\">" 
+        subtitle: "Organised by"
+        description: "<div style=\"display:block; margin-left:auto; margin-right:auto\"> <img style=\"padding-right:2em;\" src=\"/images/govtech-logo.png\"> <img src=\"/images/csg-logo.png\"> </div>"
 ---
