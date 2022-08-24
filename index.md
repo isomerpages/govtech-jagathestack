@@ -15,7 +15,7 @@ sections:
               description: Register by 6 October
               url: https://form.gov.sg/62f60859979afc0012a4e640 
             - title: STACK The Flags 
-              description: Coming Soon!
+              description: Registration will open soon
               url: /
         # title: >
         #     <span class="hero-title-outline">Jaga the<br>STACK</span>

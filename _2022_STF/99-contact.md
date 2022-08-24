@@ -8,4 +8,4 @@ collection_name: "2022_STF"
 
 You may contact us at jts@tech.gov.sg should you have further queries.
 
-Discord: <http://discord.gg/wnt38ryJQ4>
+Discord: <https://discord.gg/82mbfFbBCS>
