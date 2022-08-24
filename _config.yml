@@ -26,7 +26,7 @@ collections:
   "2022_STF":
     output: true
 
-google_analytics: G-75WX01CW1E
+google-tag-manager: G-75WX01CW1E
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
