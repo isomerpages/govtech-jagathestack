@@ -51,7 +51,7 @@ sections:
         alt: Jaga the STACK icon
         description: "Jaga the STACK is GovTech’s Cyber Security Group's flagship community engagement programme that seeks to build a community of local security researchers to create solutions for cybersecurity challenges, as well as deliver impactful and meaningful experiences for the cybersecurity community."
     - infobar:
-        description: <iframe width="800" height="450" src="https://www.youtube.com/embed/5m73qekOaAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        description: <iframe width="800" height="450" src="https://www.youtube.com/embed/kw-S84kgyGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     - infobar:
         subtitle: "Organized by"
         description: "<img style=\"padding-right:2em;\" src=\"/images/govtech-logo.png\">

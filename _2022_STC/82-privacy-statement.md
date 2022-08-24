@@ -25,19 +25,19 @@ To safeguard team members' personal data, all electronic storage and transmissio
 
 ### Others
 
-The Organizing Committee may share the participating teams' contact and electronic mail addresses with the contractors engaged by GovTech to provide services for the Competition.
+The Organising Committee may share the participating teams' contact and electronic mail addresses with the contractors engaged by GovTech to provide services for the Competition.
 This is to provision their user accounts on the contractors' platform.
 Participating teams should provide an electronic mail address that is suitable for the purpose in terms of any privacy or confidentiality concerns.
 
 
 ### Withdrawal of Consent
 
-Participating team members may withdraw consent for use of their personal data at any time upon reasonable notice to the Organizing Committee, subject to legal or contractual restrictions or public interest requirements.
-Upon such withdrawal, the Organizing Committee may in its discretion adjust the status of the Competition, including:
+Participating team members may withdraw consent for use of their personal data at any time upon reasonable notice to the Organising Committee, subject to legal or contractual restrictions or public interest requirements.
+Upon such withdrawal, the Organising Committee may in its discretion adjust the status of the Competition, including:
 
 1. Deem the participating team to have withdrawn from the Competition if the withdrawal of consent for use of its members' personal data renders it administratively impracticable to allow the participating team to remain in the Competition;
 2. Adjust the Competition ranking;
-3. Award the Competition prizes and benefits to another participating team or otherwise dispose of the same as the Organizing Committee deems fit if no other winning team can be conferred or identified.
+3. Award the Competition prizes and benefits to another participating team or otherwise dispose of the same as the Organising Committee deems fit if no other winning team can be conferred or identified.
 
 
 ### Contact Information
