@@ -11,7 +11,7 @@ STACK the Flags is open to all and the competition is divided into three categor
 1. Universities and Polytechnics; and 
 1. Junior Colleges, Integrated Programmes and Institutes of Technical Education.
 
-All participating teams can have a maximum of 4 team members, with at least 1 Singapore Citizen or Permanent Resident in the team.
+All participating teams can have a maximum of 4 team members. **To be eligible for prizes**, teams requires at least 1 Singapore Citizen or Permanent Resident in the team.
 
 Employees of GovTech and officers seconded to GovTech are not eligible to participate.
 
