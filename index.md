@@ -26,7 +26,7 @@ sections:
         image: /images/jaga/STC-icon.png
         alt: STACK the Codes icon
         subtitle: 7 Oct – 15 Nov 2022
-        description: "Compete in STACK the Codes and stand a chance to bring your ideas to life. STACK the Codes gives competitors 30 days to ideate and develop minimum viable products. The top solutions will be considered for mentorship opportunities under GovTech’s Cyber Security Group to produce a fully functioning Proof-of-Concept!" 
+        description: "Compete in STACK the Codes Hackathon and stand a chance to bring your ideas to life. STACK the Codes gives competitors 30 days to ideate and develop minimum viable products. The top solutions will be considered for mentorship opportunities under GovTech’s Cyber Security Group to produce a fully functioning Proof-of-Concept!" 
         button: Learn More
         url: /2022/stack-the-codes
     - infopic:
