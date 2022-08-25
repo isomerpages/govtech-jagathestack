@@ -1,11 +1,11 @@
-title: STACK the Flags
-url: "https://ctf.tech.gov.sg/" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon.ico
+title: Jaga The STACK
+url: "https://jts.tech.gov.sg/" # the base hostname & protocol for your site, e.g. http://example.com
+favicon: /images/favicon.png
 
 # Site colors
 colors:
-  primary-color: '#11648E'
-  secondary-color: '#299CB0'
+  primary-color: '#37135E'
+  secondary-color: '#666BA7'
   media-colors:
     - title: media-color-one
       color: '#49759a'
@@ -21,10 +21,12 @@ colors:
 collections:
   "2020":
     output: true
-  "2022":
+  "2022_STC":
+    output: true
+  "2022_STF":
     output: true
 
-google_analytics: G-75WX01CW1E
+google_analytics: UA-108456255-2
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #

@@ -1,4 +1,4 @@
-ARG VARIANT="2.6.2"
+ARG VARIANT="2.6"
 FROM mcr.microsoft.com/vscode/devcontainers/ruby:${VARIANT}
 
 # ENV Variables required by Jekyll

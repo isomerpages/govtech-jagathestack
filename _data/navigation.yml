@@ -7,7 +7,10 @@
 logo: /images/logo.png
 
 links:
-  # - title: Contact Us
-  #   url: /contact-us/
-  # - title: About,registration,challenge Creators,scoreboard
-  #  url: /about,registration,challenge-creators,scoreboard/
+  - title: STACK the Codes
+    collection: 2022_STC
+  - title: STACK the Flags
+    collection: 2022_STF
+  - title: Contact Us
+    url: /2022/stack-the-codes/contact-us
+
