@@ -6,7 +6,7 @@ collection_name: "2022_STF"
 
 ## Help us create challenges for Stack The Flag 2022
 
-Tired of just playing CTFs? Have interesting ideas that you would like to see in STF2022? Come contribute to STF2022 and win $1000 per selected challenge!
+Tired of just playing CTFs? Have interesting ideas that you would like to see in STF2022? Come contribute to STF2022 and <b>win $1000</b> per selected challenge!
 
 We are looking for challenges in the following categories:
 * Binary Exploitation
