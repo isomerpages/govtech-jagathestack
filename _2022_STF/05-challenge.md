@@ -25,7 +25,7 @@ For all challenges, do follow this set of [challenge submission requirements](ht
 
 ## Submit Now!!
 
-To submit your challenge, zip it up along with the required documentation, [sign the T&C](\files\TnC_Community_Sourced_Challenges.pdf) and submit it all via this [form](). 
+To submit your challenge, zip it up along with the required documentation, [sign the T&C](\files\TnC_Community_Sourced_Challenges.pdf) and submit it all via this [form](https://form.gov.sg/6315af7e0ba1c90013c6a643). 
 
 Submission closes on 10th October 2022, 2359 HRS.
 
