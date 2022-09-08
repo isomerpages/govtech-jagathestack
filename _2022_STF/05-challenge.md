@@ -20,6 +20,8 @@ We are looking for interesting challenge ideas in the following categories:
 * Reverse Engineering (RE)
 * Web
 
+<i>if your challenge is selected, you will be awarded <b>SGD 1,000</b> per challenge.</i>
+
 To submit a challenge, please follow the [challenge submission requirements](https://help.hackthebox.com/en/articles/5676859-challenge-submission-requirements). You may refer to this [example](https://github.com/hackthebox/public-templates/blob/master/examples/RE.md). Submissions that do not conform to the challenge submission requirements will not be accepted.
 
 ## Submit Now!!
