@@ -18,4 +18,4 @@ A. Each team may submit for multiple problem statements. Please note that each p
 A. Winning teams will undergo two rounds of evaluation and are selected based on the completeness of their solutions including but not limited to; scalability, uniqueness and feasibility.
 
 <b>Q. Are we required to create a technical solution?</b><br>
-A. Teams are expected to create a technical solution. The extended duration for Round One (30 days) is specially crafted to ensure the completeness of your prototype. Teams are required to submit their source code, a video demo and a full wiki readme (this can be part of your repository).
+A. Teams are expected to create a technical solution. The extended duration for Round One (30 days) is specially crafted to ensure the completeness of your prototype. For more details, please refer to the submission instructions that will be sent to all participants.

@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Jaga the STACK
-description: Jaga the STACK is GovTech Cyber Security Group's (CSG) event banner.
+description: Jaga the STACK is GovTech’s Cyber Security Group's flagship community engagement programme
 image: /images/logo.png
 permalink: /
 sections:
@@ -12,7 +12,7 @@ sections:
         # url: /2020/winners
         key_highlights:
             - title: STACK The Codes
-              description: Register by 6 October
+              description: Submit your solution by 6 November
               url: https://form.gov.sg/62f60859979afc0012a4e640 
             - title: STACK The Flags 
               description: Registration will open soon
