@@ -8,6 +8,8 @@ collection_name: "2022_STC"
 
 ![STACK the Codes banner](/images/stc/STC_banner.png)
 
+[Click here to download problem statements and submission criteria](/files/ProblemStatementSubmission.pdf)
+
 Join STACK the Codes Hackathon and play the role of a specialist developing solutions to tackle real-world cybersecurity problems faced by the Singapore Government.
 
 [Click here to sign up now](https://form.gov.sg/62f60859979afc0012a4e640)!
