@@ -12,7 +12,7 @@ collection_name: "2022_STC"
 
 Join STACK the Codes Hackathon and play the role of a specialist developing solutions to tackle real-world cybersecurity problems faced by the Singapore Government.
 
-[Click here to sign up now](https://form.gov.sg/62f60859979afc0012a4e640)!
+[Submit your solution by 6 November](https://form.gov.sg/6347be2822675200119b9fb9)!
 
 ### Why should I join STACK the Codes?
 

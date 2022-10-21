@@ -13,7 +13,7 @@ sections:
         key_highlights:
             - title: STACK The Codes
               description: Submit your solution by 6 November
-              url: https://form.gov.sg/62f60859979afc0012a4e640 
+              url: https://form.gov.sg/6347be2822675200119b9fb9
             - title: STACK The Flags 
               description: Registration is now open
               url: https://form.gov.sg/6352146a67a62b0012ede575
