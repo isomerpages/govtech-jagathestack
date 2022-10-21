@@ -15,8 +15,8 @@ sections:
               description: Submit your solution by 6 November
               url: https://form.gov.sg/62f60859979afc0012a4e640 
             - title: STACK The Flags 
-              description: Registration will open soon
-              url: /
+              description: Registration is now open
+              url: https://form.gov.sg/6352146a67a62b0012ede575
         # title: >
         #     <span class="hero-title-outline">Jaga the<br>STACK</span>
         #     <span class="hero-title">Jaga the<br>STACK</span>
