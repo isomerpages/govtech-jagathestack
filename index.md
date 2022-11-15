@@ -12,8 +12,8 @@ sections:
         # url: /2020/winners
         key_highlights:
             - title: STACK The Codes
-              description: Submit your solution by 6 November
-              url: https://form.gov.sg/6347be2822675200119b9fb9
+              description: Solution submission is now closed
+              url: /2022/stack-the-codes
             - title: STACK The Flags 
               description: Registration is now open
               url: https://form.gov.sg/6352146a67a62b0012ede575
