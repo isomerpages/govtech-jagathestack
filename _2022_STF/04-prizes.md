@@ -23,8 +23,8 @@ Watch this space for further updates!
 A video conference session will be conducted with the respective winners of the Top Prizes in each participation category before the prize ceremony.
 
 The session is conducted with the following intent:
-•	Identify authenticity of the CTF experience
-•	Gather feedback on the CTF
+- Identify authenticity of the CTF experience
+- Gather feedback on the CTF
 
 ## Awesome write-ups 
 
@@ -37,4 +37,3 @@ Content Accuracy | Factual accuracy of the write-up. | 20
 Reliability of the Exploit/Attack Path | Solutions that can be reliably executed.  | 20
 Usefulness of the Write-up | Write-ups that can be easily used by the community to learn and gain new knowledge and concepts. | 20
 Thought Process | Sharing of thought process with the community, along with tips and tricks where possible. | 20
-

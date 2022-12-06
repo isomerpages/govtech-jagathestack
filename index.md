@@ -15,8 +15,8 @@ sections:
               description: Solution submission is now closed
               url: /2022/stack-the-codes
             - title: STACK The Flags 
-              description: Registration is now open
-              url: https://form.gov.sg/6352146a67a62b0012ede575
+              description: Check out the results here
+              url: /2022/stack-the-flags/results
         # title: >
         #     <span class="hero-title-outline">Jaga the<br>STACK</span>
         #     <span class="hero-title">Jaga the<br>STACK</span>
@@ -41,10 +41,10 @@ sections:
         title: Jaga the STACK Finale
         image: /images/jaga/WHA-icon.png
         alt: Whitehat Appreciation icon 
-        subtitle: 8 Dec 2022   
+        subtitle: 8 Dec 2022, 1000 hrs
         description: "Jaga the STACK culminates in a finale prize presentation to celebrate the achievements of top teams from STACK the Codes and STACK the Flags, as well as recognise top local white hats for their contributions to government cybersecurity through GovTech’s crowdsource vulnerability disclosure programmes. Stay tuned for more details."
-        # button: Learn More
-        # url: /2022/whitehat-appreciation
+        button: Sign up now
+        url: https://form.gov.sg/636a06b7d392240011ac70b2
     - infopic:
         title: About Jaga the STACK
         image: /images/jaga/JTS-icon.png
