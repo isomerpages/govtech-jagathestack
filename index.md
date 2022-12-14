@@ -43,8 +43,8 @@ sections:
         alt: Whitehat Appreciation icon 
         subtitle: 8 Dec 2022, 1000 hrs
         description: "Jaga the STACK culminates in a finale prize presentation to celebrate the achievements of top teams from STACK the Codes and STACK the Flags, as well as recognise top local white hats for their contributions to government cybersecurity through GovTech’s crowdsource vulnerability disclosure programmes. Stay tuned for more details."
-        button: Sign up now
-        url: https://form.gov.sg/636a06b7d392240011ac70b2
+        button: Find all your photos here
+        url: https://drive.google.com/drive/folders/1AGMVyIrEaFk4-PC_co2BOdshAOfScbM4?usp=sharing
     - infopic:
         title: About Jaga the STACK
         image: /images/jaga/JTS-icon.png
