@@ -30,7 +30,7 @@ Cursed Grimoires | https://chovid99.github.io/posts/stack-the-flags-ctf-2022
 Magic Lock | https://github.com/xihzs/ctf-writeups/tree/main/Stack%20The%20Flags%202022/PWN/Magic_Lock#magic-lock	
 Emulator | https://github.com/cewau/ctf-writeups/blob/main/20221202-stf/REV_emulator.md	
 TickTock | https://github.com/Kair0s3/Rightup/blob/main/2022/Dec/STF/TickTock.md	
-Hyper Proto Secure Note 2 | hyperproto2_index.pdf
+Hyper Proto Secure Note 2 | hyperproto2_index.pdf*
 Extended | https://github.com/maybe-maybe-not/CTF-Writeups/blob/master/2022/Stack%20the%20Flags/web/extended.md	
 Advanced Web Systems | https://deveshl.github.io/posts/stack-the-flags-2022/	
 Raccoin | https://api.ctflib.junron.dev/share/writeup/raccoin-61	
