@@ -36,4 +36,4 @@ Advanced Web Systems | https://deveshl.github.io/posts/stack-the-flags-2022/
 Raccoin | https://api.ctflib.junron.dev/share/writeup/raccoin-61	
 Still Water | https://ctf-writeups.notion.site/RE-Still-Water-d629f5cb40804a7192b9d11a8ba4fbf4	
 
-*Physical file uploaded, will reupload at a later date
+*Physical file uploaded, content will be reuploaded at a later date
