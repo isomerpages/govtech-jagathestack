@@ -54,5 +54,5 @@ sections:
         description: <iframe width="800" height="450" src="https://www.youtube.com/embed/kw-S84kgyGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     - infobar:
         subtitle: "Organised by"
-        description: "<div style=\"display:block; margin-left:auto; margin-right:auto\"> <img width=\"300\" src=\"/images/csg-logo.png\"> </div>"
+        description: "<div style=\"display:block; margin-left:auto; margin-right:auto\"> <img style=\"max-width: 50vw;\" src=\"/images/csg-logo.png\"> </div>"
 ---
