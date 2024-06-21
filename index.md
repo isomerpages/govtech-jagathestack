@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Jaga the STACK
+title: Jaga the STACK 2024
 description: Jaga the STACK is GovTech’s Cyber Security Group's flagship community engagement programme
 image: /images/logo.png
 permalink: /
