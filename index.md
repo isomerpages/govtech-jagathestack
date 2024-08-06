@@ -7,7 +7,7 @@ permalink: /
 sections:
     - hero:
         # subtitle: A CTF organised by GovTech Cyber Security Group<br>See you in 2022 for the next STACK the Flags!<br>Check out the winners for the 2020 CTF <a href="/2020/winners">here</a>
-        background: /images/hero-banner.png
+        background: /images/CTS2024-Logo.png
         # button: Winners
         # url: /2020/winners
         key_highlights:
